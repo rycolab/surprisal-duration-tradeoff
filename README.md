@@ -66,6 +66,26 @@ To train the model in all languages from one of the datasets, run
 $ python src/h02_learn/train_all.py --dataset <dataset>
 ```
 
+## Analysis
+
+After training and evaluating the models in all languages with the commands above. Merge the results and filter them based on MCD scores:
+```bash
+$ make filter_mcd DATASET=<dataset>
+```
+With this filtered results, we are now able to run the paper analysis. First, run the individual languages analysis:
+```bash
+$ make analysis_monoling DATASET=<dataset>
+```
+Second, the full cross-linguistic analysis:
+```bash
+$ make analysis_crossling DATASET=<dataset>
+```
+Finally, run the "pure" cross-linguistic analysis with command:
+```bash
+$ make analysis_tradeoff DATASET=<dataset>
+```
+
+
 
 
 
