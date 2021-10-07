@@ -85,6 +85,24 @@ Finally, run the "pure" cross-linguistic analysis with command:
 $ make analysis_tradeoff DATASET=<dataset>
 ```
 
+## Paper plots and results
+
+Finally, to get the plots as in the paper run the following commands. For figure 1:
+```bash
+$ make plot_monoling_full DATASET=unitran
+```
+For figure 2:
+```bash
+$ make plot_monoling_effects DATASET=epitran
+```
+For figure 3:
+```bash
+$ make plot_crossling_effects DATASET=epitran
+```
+For the Appendix Table:
+```bash
+$ make print_controls DATASET=epitran
+```
 
 
 

@@ -10,6 +10,7 @@ CHECKPOINT_DIR := $(CHECKPOINT_DIR_BASE)/$(DATASET)
 CHECKPOINT_DIR_LANG := $(CHECKPOINT_DIR)/$(LANGUAGE)
 RESULTS_DIR_BASE := ./results
 RESULTS_DIR := $(RESULTS_DIR_BASE)/$(DATASET)
+PLOTS_DIR := $(RESULTS_DIR_BASE)/plots/
 
 VOX_DIR := $(DATA_DIR_BASE)/vox
 VOX_RAW_FILE := $(VOX_DIR)/alignments/$(DATASET)/lab-files/$(LANGUAGE).zip
@@ -76,31 +77,31 @@ plot_paper: plot_monoling_effects plot_crossling_effects plot_monoling_effects_l
 	plot_monoling_full
 
 plot_monoling_effects: $(MIXED_EFFECTS_MONOLING)
-	mkdir -p $(RESULTS_DIR)/plots/
+	mkdir -p $(PLOTS_DIR)
 	python src/h06_paper/plot_monoling_slopes.py --dataset $(DATASET) --data-path $(DATA_DIR_BASE) \
 		--mixed-effects-file $(MIXED_EFFECTS_MONOLING) --results-file $(LOSSES_FULL)
 
 plot_monoling_effects_linear: $(MIXED_EFFECTS_MONOLING_LINEAR)
-	mkdir -p $(RESULTS_DIR)/plots/
+	mkdir -p $(PLOTS_DIR)
 	python src/h06_paper/plot_monoling_slopes.py  --dataset $(DATASET) --data-path $(DATA_DIR_BASE) \
 		--mixed-effects-file $(MIXED_EFFECTS_MONOLING_LINEAR) --analysis-type linear \
 		 --results-file $(LOSSES_FULL)
 
 plot_crossling_effects: $(MIXED_EFFECTS_CROSSLING)
-	mkdir -p $(RESULTS_DIR)/plots/
+	mkdir -p $(PLOTS_DIR)
 	python src/h06_paper/plot_crossling_slopes.py --dataset $(DATASET) --data-path $(DATA_DIR_BASE) \
 		--mixed-effects-file $(MIXED_EFFECTS_CROSSLING) --mixed-effects-file-re $(MIXED_EFFECTS_CROSSLING_RE)
 
 plot_crossling_effects_linear: $(MIXED_EFFECTS_CROSSLING)
-	mkdir -p $(RESULTS_DIR)/plots/
+	mkdir -p $(PLOTS_DIR)
 	python src/h06_paper/plot_crossling_slopes.py --dataset $(DATASET) --data-path $(DATA_DIR_BASE) \
 		--mixed-effects-file $(MIXED_EFFECTS_CROSSLING_LINEAR) --mixed-effects-file-re $(MIXED_EFFECTS_CROSSLING_LINEAR_RE) \
 		--analysis-type linear
 
 plot_monoling_full: $(MIXED_EFFECTS_MONOLING)
+	mkdir -p $(PLOTS_DIR)
 	python src/h06_paper/plot_monoling_full.py --dataset $(DATASET) --data-path $(DATA_DIR_BASE) \
 		--mixed-effects-file $(MIXED_EFFECTS_MONOLING)
-
 
 print_controls: analysis_monoling analysis_tradeoff analysis_crossling
 	python src/h06_paper/print_control_table.py --dataset $(DATASET) --data-path $(DATA_DIR_BASE) \
