@@ -50,17 +50,15 @@ $ source src/h01_data/process_unitran.sh
 
 ## Train and evaluate the models
 
-You can train your models using random search with the command
+You can train your models on each language with the command
 ```bash
 $ make LANGUAGE=<language> DATASET=<dataset>
 ```
-There are three datasets available in this repository: celex; northeuralex; and wiki.
-
-
 To train the model in all languages from one of the datasets, run
 ```bash
-$ python src/h02_learn/train_all.py --dataset <dataset> --data-path data/<dataset>/
+$ python src/h02_learn/train_all.py --dataset <dataset>
 ```
+
 
 
 
