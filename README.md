@@ -1,4 +1,7 @@
 # surprisal-duration-tradeoff
+
+[![CircleCI](https://circleci.com/gh/rycolab/surprisal-duration-tradeoff.svg?style=svg&circle-token=581c6fb829d8c4874c9a5a65c7dbc9da7ab3ac82)](https://circleci.com/gh/rycolab/surprisal-duration-tradeoff)
+
 This repository accompanies the paper "A surprisal--duration trade-off across and within the world's languages" published in EMNLP 2021.
 
 ## Install
