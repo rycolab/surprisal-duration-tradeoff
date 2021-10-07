@@ -1,19 +1,14 @@
 import os
 import sys
-import math
-import numpy as np
 import pandas as pd
-from scipy import stats
 from tqdm import tqdm
-import statsmodels.api as sm
-import statsmodels.formula.api as smf
 
 sys.path.append('./src/')
 from h01_data.dataset.vox import VoxClamantis
 from util import argparser
-from util import constants
-from util import util
 
+
+MCD_MAXIMUM = 6.5
 
 def get_args():
     argparser.add_argument('--results-file-raw', type=str, required=True)
@@ -35,7 +30,6 @@ def add_language_families(df, data_path):
 def main():
     args = get_args()
 
-    MCD_MAXIMUM = 6.5
 
     df = pd.read_csv(args.results_file_raw, delimiter='\t')
     df = add_language_families(df, args.raw_data_path)

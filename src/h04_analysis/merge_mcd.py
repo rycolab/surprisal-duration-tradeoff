@@ -1,14 +1,8 @@
-import os
 import sys
-import math
 from tqdm import tqdm
-import numpy as np
 import pandas as pd
-from scipy import stats
 
 sys.path.append('./src/')
-from h01_data.dataset.vox import VoxClamantis
-from h02_learn.dataset import load_data, get_alphabet
 from util import argparser
 from util import util
 
@@ -19,7 +13,7 @@ def get_args():
     return argparser.parse_args()
 
 
-def get_results(mcd_path, raw_data_path):
+def get_results(mcd_path):
     languages = util.get_filenames(mcd_path)
     dfs = []
 
@@ -40,7 +34,7 @@ def get_results(mcd_path, raw_data_path):
 
 def main():
     args = get_args()
-    df = get_results(args.mcd_path, args.data_path)
+    df = get_results(args.mcd_path)
     df.to_csv(args.results_file, sep='\t', index=False)
 
 

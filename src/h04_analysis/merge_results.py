@@ -1,10 +1,7 @@
 import os
 import sys
-import math
 from tqdm import tqdm
-import numpy as np
 import pandas as pd
-from scipy import stats
 
 sys.path.append('./src/')
 from h02_learn.dataset import load_data, get_alphabet
@@ -72,12 +69,12 @@ def get_results(checkpoints_path, data_path, model):
 
 
 def main():
+    # pylint: disable=too-many-locals
+
     args = get_args()
     losses, phones, durations, y_values, positions, words, word_ids, phone_ids = \
         get_results(args.checkpoints_path, args.data_path, args.model)
 
-    avg_loss, avg_dur = [], []
-    full_loss, full_dur = [], []
     results = []
 
     for (lang, loss), (lang2, dur), (lang3, y), (lang4, phone), \
@@ -116,10 +113,12 @@ def main():
         results += [
             (lang, sentence, phone, loss, dur, position, word, word_id, phone_id)
             for loss, dur, phone, sentence, position, word, word_id, phone_id in
-            zip(loss_array, dur_array, phone_array, sentence_array, positions_array, words_array, word_ids_array, phone_id_array)
+            zip(loss_array, dur_array, phone_array, sentence_array, positions_array,
+                words_array, word_ids_array, phone_id_array)
         ]
 
-    df = pd.DataFrame(results, columns=['lang', 'sentence', 'char', 'loss', 'duration', 'position', 'word', 'word_id', 'phone_id'])
+    df = pd.DataFrame(results, columns=['lang', 'sentence', 'char', 'loss', 'duration',
+                                        'position', 'word', 'word_id', 'phone_id'])
     df.to_csv(args.results_file, sep='\t', index=False)
 
 
