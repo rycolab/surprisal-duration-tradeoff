@@ -132,3 +132,14 @@ dmypy.json
 .Rproj.user
 .Rhistory
 .RData
+
+# Project
+data/vox/alignments/
+data/vox/alignments.zip
+data/vox/text/
+data/vox/text.zip
+data/vox/lexicons/epitran/
+data/vox/lexicons/unitran/
+data/vox/extracted/
+data/epitran/
+data/unitran/
