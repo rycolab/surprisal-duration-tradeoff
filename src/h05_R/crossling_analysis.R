@@ -8,7 +8,6 @@ shhh(library(lme4))
 shhh(library( mgcv ))
 theme_set(theme_bw())
 shhh(library(tidymv))
-# shhh(library(gamlss))
 shhh(library(gsubfn))
 shhh(library(tidyr))
 shhh(library(lmerTest))
@@ -90,11 +89,6 @@ if (is_linear == TRUE) {
 } else {
     data_full$duration_analysis <- data_full$log_duration
 }
-
-# index <- sample(1:nrow(data_full), 20000, replace=FALSE)
-# data_full <- data_full[index, ]
-# data_full <- data_full  %>% droplevels()
-# summary(data_full)
 
 results = c()
 

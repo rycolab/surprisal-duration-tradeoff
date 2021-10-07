@@ -73,7 +73,6 @@ get_args <- function() {
 
 
 filter_lang <- function(data, language) {
-    # print(language)
     data_lang <- data %>% filter(lang == language) %>% droplevels()
 
     data_lang <- data_lang %>%
@@ -102,13 +101,9 @@ if (is_linear == TRUE) {
     df$duration_analysis <- df$log_duration
 }
 
-# print(drop_position)
-# print(drop_phone)
 
 file_id = c(2, 4, 3)
 for (lang in languages) {
-# for (index in file_id) {
-#     lang <- languages[index]
     print(lang)
     data_lang <- filter_lang(df, lang)
 
@@ -139,7 +134,6 @@ for (lang in languages) {
     }
 
     results <- cbind(results, lang=fixedef)
-    # anova_results <- anova(lm_mod)
     lang_pval <- paste(lang, "--p_value", sep='')
     results <- cbind(results, lang_pval=pvalues)
 
