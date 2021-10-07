@@ -146,3 +146,5 @@ data/vox/extracted/
 data/epitran/
 data/unitran/
 checkpoint/
+results/*/lstm_losses.tsv
+results/*/lstm_losses-raw.tsv
