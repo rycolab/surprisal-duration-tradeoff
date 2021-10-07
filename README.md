@@ -52,12 +52,17 @@ $ source src/h01_data/process_unitran.sh
 
 You can train your models on each language with the command
 ```bash
-$ make LANGUAGE=<language> DATASET=<dataset>
+$ make train LANGUAGE=<language> DATASET=<dataset>
+```
+Similarly, you can then use your model to get surprisal values on that language by running:
+```bash
+$ make eval LANGUAGE=<language> DATASET=<dataset>
 ```
 To train the model in all languages from one of the datasets, run
 ```bash
 $ python src/h02_learn/train_all.py --dataset <dataset>
 ```
+
 
 
 
