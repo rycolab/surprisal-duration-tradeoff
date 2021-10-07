@@ -18,6 +18,7 @@ VOX_LEX_FILE := $(VOX_DIR)/lexicons/$(DATASET)/$(LANGUAGE)_$(DATASET)_pronunciat
 VOX_PUNCT_FILE := $(VOX_DIR)/punct/$(DATASET)/$(LANGUAGE)
 VOX_MCD_ZIP := $(VOX_DIR)/mcd.zip
 VOX_MCD_PATH := $(VOX_DIR)/mcd
+VOX_MCD_FILE := $(VOX_MCD_PATH)/$(LANGUAGE).scores
 EXTRACTED_DIR := $(VOX_DIR)/extracted/$(DATASET)
 VOX_EXTRACTED_FILE := $(EXTRACTED_DIR)/$(LANGUAGE).tsv
 MCD_FILE := $(VOX_DIR)/mcd.tsv
@@ -209,12 +210,12 @@ $(LOSSES_FULL): | $(MCD_FILE) $(LOSSES_FULL_RAW)
 		--dataset $(DATASET) --raw-data-path $(DATA_DIR_BASE)
 
 $(LOSSES_FULL_RAW):
-	mkdir -p $(RESULTS_DIR)/$(DATASET)
+	mkdir -p $(RESULTS_DIR)
 	python src/h04_analysis/merge_results.py \
-		--data-path $(DATA_DIR_BASE)/$(DATASET) --checkpoints-path $(CHECKPOINT_DIR)/$(DATASET) \
-		--results-file $(RESULTS_DIR)/$(DATASET)/$(MODEL)_losses-raw.tsv --model $(MODEL)
+		--data-path $(DATA_DIR) --checkpoints-path $(CHECKPOINT_DIR) \
+		--results-file $(RESULTS_DIR)/$(MODEL)_losses-raw.tsv --model $(MODEL)
 
-$(MCD_FILE): $(VOX_MCD_PATH)/
+$(MCD_FILE): $(VOX_MCD_FILE)
 	python src/h04_analysis/merge_mcd.py --data-path $(VOX_DIR)/extracted/unitran \
 		--results-file $(MCD_FILE) --mcd-path $(VOX_MCD_PATH)
 
@@ -240,6 +241,9 @@ $(VOX_EXTRACTED_FILE): $(VOX_RAW_FILE) $(VOX_LEX_FILE)
 		--src-file $(VOX_RAW_FILE) --tgt-file $(VOX_EXTRACTED_FILE) \
 		--text-file $(VOX_TEXT_FILE) --lex-file $(VOX_LEX_FILE) \
 		--punct-file $(VOX_PUNCT_FILE)
+
+$(VOX_MCD_FILE):
+	unzip $(VOX_MCD_ZIP) -d $(VOX_DIR)/
 
 $(VOX_PUNCT_FILE):
 	unzip $(VOX_DIR)/punct/$(DATASET).zip -d $(VOX_DIR)/punct/

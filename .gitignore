@@ -138,6 +138,8 @@ data/vox/alignments/
 data/vox/alignments.zip
 data/vox/text/
 data/vox/text.zip
+data/vox/mcd/
+data/vox/mcd.tsv
 data/vox/lexicons/epitran/
 data/vox/lexicons/unitran/
 data/vox/extracted/

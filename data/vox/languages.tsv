@@ -1,0 +1,691 @@
+ISO 639-3 code	bible.is / wilderness code	language name	reading MCD1	genus	family	macroarea	# utterances	# phoneme tokens	Unitran	Wikipron	Epitran	OSF?	Drive?	Notes?
+abi	ABIWBT	Abidji	6.27	Kwa	Niger-Congo	Africa	8955	563884	✓				u	unitran lab zip missing on OSF
+ace	AC1IBS	Aceh	6.51	Malayo-Sumbawan	Austronesian	Eurasia	10944	911575	✓				u	unitran lab zip missing on OSF
+acr	ACCIBS	Achi de Cubulco	6.15	Mayan	Mayan	North America	13411	753947	✓				u	unitran lab zip missing on OSF
+acd	ACDWBT	Gikyode	7.73	Kwa	Niger-Congo	Africa	11976	869060	✓				u	unitran lab zip missing on OSF
+ach	ACHBSU	Acholi	6.8	Nilotic	Eastern Sudanic	Africa	7045	482095	✓				u	unitran lab zip missing on OSF
+acm	ACMAS3	العربية	8.29	Semitic	Afro-Asiatic	Eurasia	1168	101251	✓				u	unitran lab zip missing on OSF
+acn	ACNBSM	Ngochang	6.14	Burmese-Lolo	Sino-Tibetan	Eurasia	10526	908893	✓				u	unitran lab zip missing on OSF
+quc	ACRWB1	Achí	6.56	Mayan	Mayan	North America	13626	918131	✓				u	unitran lab zip missing on OSF
+quc	ACRWBT	Achí	7.62	Mayan	Mayan	North America	10205	731137	✓				u	unitran lab zip missing on OSF
+acu	ACUTBL	Achuar-Shiwiar	6.24	Jivaroan	Jivaroan	South America	18007	1067879	✓			u	u	
+ade	ADETBL	Adele	6.88	Kwa	Niger-Congo	Africa	9037	699037	✓			u	u	
+adh	ADHBSU	Dhopadhola	6.52	Nilotic	Eastern Sudanic	Africa	9672	638351	✓			u	u	
+adj	ADJWBT	Adioukrou	7.42	Kwa	Niger-Congo	Africa	3631	212840	✓			u	u	
+aeu	AEUWBT	Austronesia	6.94	Burmese-Lolo	Sino-Tibetan	Eurasia	9010	886160	✓			u	u	
+agn	AGNWPS	Agutaynen	6.08	Malayo-Polynesian	Austronesian	Papunesia	12266	961836	✓			u	u	
+agr	AGRTBL	Awajun	6.43	Jivaroan	Jivaroan	South America	12183	965171	✓			u	u	
+agu	AGUNVS	Aguacateco	5.81	Mayan	Mayan	North America	15693	982258	✓			u	u	
+ahk	AHKTBS	Akha	6.98	Burmese-Lolo	Sino-Tibetan	Eurasia	9328	848800	✓			u	u	
+aia	AIAWYI	Arosi	5.59	Oceanic	Austronesian	Papunesia	11812	862827	✓			u	u	
+aka	AK1BSG	Akan: Akuapem	7.81	Kwa	Niger-Congo	Africa	7110	416237	✓			u	u	unitran lexicon missing on cluster
+ake	AKEBSS	Akawaio	8.34	Cariban	Cariban	South America	9609	752495	✓			u	u	
+akp	AKPWBT	Siwu	6.33	Kwa	Niger-Congo	Africa	9112	654153	✓			u	u	
+alj	ALJOMF	Alangan	5.93	Malayo-Polynesian	Austronesian	Papunesia	11864	857074	✓			u	u	
+alp	ALPWBT	Alune	6.3	Malayo-Polynesian	Austronesian	Papunesia	9392	685510	✓			u	u	
+alb	ALSBSA	Shqip	6.98	Albanian	Indo-European	Eurasia	4302	293481	✓			u	u	
+alt	ALTIBT	Altai, Southern	7.16	Turkic	Turkic	Eurasia	4225	318543	✓			u	u	
+alz	ALZBSU	Alur	7.31	Nilotic	Eastern Sudanic	Africa	10113	606826	✓			u	u	
+amf	AMFSIM	Banna	6.49	South Omotic	Afro-Asiatic	Africa	8749	591566	✓			u	u	
+amk	AMKWBT	Ambai	5.42	South Halmahera - West New Guinea	Austronesian	Papunesia	11216	1038432	✓			u	u	
+ann	ANNWBT	Obolo	8.47	Cross River	Niger-Congo	Africa	3022	248226	✓			u	u	
+anv	ANVWBT	Denya	6.66	Benue-Congo	Niger-Congo	Africa	5790	477012	✓			u	u	
+apd	APDAS2	العربية	8.03	Semitic	Afro-Asiatic	Africa	2104	183492	✓			u	u	
+apr	APRWBT	Arop-Lokep	6.21	Oceanic	Austronesian	Papunesia	12703	1223426	✓			u	u	
+arb	ARBIBS	العربية	7.91	Semitic	Afro-Asiatic	Eurasia	1892	179217	✓			u	u	
+arz	ARZVDV	العربية	7.36	Semitic	Afro-Asiatic	Africa	6135	511890	✓			u	u	
+atg	ATGWYI	Okpela	7.66	Ede	Niger-Congo	Africa	6920	508460	✓			u	u	
+atq	ATQLAI	Aralle-Tabulahan	6.66	South Sulawesi	Austronesian	Papunesia	11170	981259	✓			u	u	
+ava	AVAIBT	Avar	6	Avar-Andic-Tsezic	Nakh-Daghestanian	Eurasia	5790	489504	✓			u	u	
+avn	AVNWBT	Sideme	6.33	Kwa	Niger-Congo	Africa	9800	721431	✓			u	u	
+avu	AVUWBT	Avokaya	6.89	Moru-Ma'di	Central Sudanic	Africa	7408	721186	✓			u	u	
+awa	AWAWTC	Awadhi	7.37	Indic	Indo-European	Eurasia	5100	699933	✓			u	u	
+awb	AWBTBL	Awa for Papua New Guinea	7.78	Eastern Highlands	Trans-New Guinea	Papunesia	6605	446309	✓			u	u	
+ayr	AYMBSB	Aymara, Central	7.33	Aymara	Aymaran	South America	6842	519368	✓			u	u	
+ayr	AYMSBU	Aymara, Central	7.18	Aymara	Aymaran	South America	9277	689549	✓			u	u	
+azj	AZEBSA	Azərbaycan, Şimali	6.84	Oghuz	Turkic	Eurasia	4528	273627	✓		✓	eu	eu	
+azg	AZGTBL	San Pedro Amuzgo	7.23	Mixtecan	Oto-Manguean	North America	6158	506740	✓			u	u	
+azz	AZZTBL	Nahuatl, Highland Puebla	6.08	Aztecan	Uto-Aztecan	North America	14597	1331206	✓			u	u	
+bak	BAKIBT	Bashkir	6	Turkic	Turkic	Eurasia	7647	583463	✓			u	u	
+bam	BAMLSB	Bambara	7.51	Western Mande	Mande	Africa	7538	405528	✓			u	u	
+ban	BANIBS	Balinese	6.42	Malayo-Sumbawan	Austronesian	Papunesia	12466	1064693	✓			u	u	
+bav	BAVWBT	Babungo	6.68	Benue-Congo	Niger-Congo	Africa	6961	505688	✓			u	u	
+bbo	BBOBSB	Bobo Madaré, Northern	8.13	Western Mande	Mande	Africa	6433	310477	✓			u	u	
+bcl	BCLBPV	Bicolano, Central	6.46	Greater Central Philippine	Austronesian	Papunesia	10783	801250	✓			u	u	
+bcw	BCWWBT	Bana	7.19	Biu-Mandara	Afro-Asiatic	Africa	6543	482737	✓			u	u	
+beh	BEHWBT	Biali	7.6	Gur	Niger-Congo	Africa	7939	427293	✓			u	u	
+bep	BEPLAI	Behoa	6.36	Malayo-Polynesian	Austronesian	Papunesia	10072	775927	✓			u	u	
+bex	BEXWBT	Jur Modo	6.74	Bongo-Bagirmi	Central Sudanic	Africa	7364	518346	✓			u	u	
+bfa	BFABSS	Bari	5.2	Nilotic	Eastern Sudanic	Africa	9635	759310	✓			u	u	
+bfd	BFDWBT	Bafut	7.34	Benue-Congo	Niger-Congo	Africa	6321	617764	✓			u	u	
+bfo	BFOBSB	Birifor, Northern	6.48	Gur	Niger-Congo	Africa	7558	491836	✓			u	u	
+bgr	BGRBBS	Bawm	6.79	Kuki-Chin	Sino-Tibetan	Eurasia	9240	688176	✓			u	u	
+bhz	BHZLAI	Bada	5.38	Malayo-Polynesian	Austronesian	Papunesia	11079	823666	✓			u	u	
+bib	BIBWBT	Bissa	7.7	Eastern Mande	Mande	Africa	5311	313054	✓			u	u	
+bim	BIMWBT	Bimoba	7.01	Gur	Niger-Congo	Africa	8141	548586	✓			u	u	
+bis	BISBSP	Bislama	6.67	Creole	Creole	Papunesia	10591	896523	✓			u	u	unitran lexicon missing on cluster
+biv	BIVWBT	Birifor, Southern	7.56	Gur	Niger-Congo	Africa	6539	449192	✓			u	u	
+bjv	BJVWYI	Nangnda	7.03	Bongo-Bagirmi	Central Sudanic	Africa	5705	358441	✓			u	u	
+bkv	BKVWYI	Bekwarra	7.31	Benue-Congo	Niger-Congo	Africa	10199	614534	✓			u	u	
+blt	BLTEPI	Tai Dam	5.59	Kam-Tai	Tai-Kadai	Eurasia	7594	642535	✓			u	u	
+blz	BLZLAI	Balantak	6.08	Celebic	Austronesian	Papunesia	11442	868406	✓			u	u	
+bmq	BMQBSM	Bomu	7.05	Gur	Niger-Congo	Africa	7875	435541	✓			u	u	
+bmv	BMVCAB	Bum	6.41	Benue-Congo	Niger-Congo	Africa	7826	664618	✓			u	u	
+ben	BNGBBS	Bengali	8.14	Indic	Indo-European	Eurasia	812	90020	✓		✓	eu	eu	
+ben	BNGCLV	Bengali	8.09	Indic	Indo-European	Eurasia	862	103927	✓		✓	eu	eu	
+ben	BNGWTC	Bengali	8.06	Indic	Indo-European	Eurasia	3331	446231	✓		✓	eu	eu	
+boa	BOATBL	Bora	5.8	Boran	Huitotoan	South America	10916	896997	✓			u	u	
+boj	BOJWBT	Anjam	6.22	Madang	Trans-New Guinea	Papunesia	17682	1041394	✓			u	u	
+bov	BOVWBT	Tuwuli	6.23	Kwa	Niger-Congo	Africa	8788	661115	✓			u	u	
+box	BOXWYI	Buamu	8.12	Gur	Niger-Congo	Africa	8345	529526	✓			u	u	
+bpr	BPRWYI	Koronadal Blaan	6.39	Bilic	Austronesian	Papunesia	8581	586423	✓			u	u	
+bps	BPSWPS	Sarangani Blaan	6.48	Malayo-Polynesian	Austronesian	Papunesia	9947	756121	✓			u	u	
+bqc	BQCSIM	Boo	6.95	Eastern Mande	Mande	Africa	5113	227669	✓			u	u	
+bqj	BQJATB	Bandial	6.99	Bak	Niger-Congo	Africa	9715	604950	✓			u	u	
+bqp	BQPSIM	Bisã	6.69	Eastern Mande	Mande	Africa	8984	465143	✓			u	u	
+bru	BRUNXB	Bru Eastern	6.34	Katuic	Austro-Asiatic	Eurasia	15270	839327	✓			u	u	
+bss	BSSWBT	Akoose	7.24	Benue-Congo	Niger-Congo	Africa	7109	495165	✓			u	u	
+btd	BTDLAI	Bahasa Pakpak Dairi	6.11	Malayo-Polynesian	Austronesian	Papunesia	9133	681314	✓			u	u	
+bts	BTSLAI	Batak Simalungun	6.41	Malayo-Polynesian	Austronesian	Papunesia	10546	737294	✓			u	u	
+btt	BTTPDT	Bete-Bendi	9.1	Benue-Congo	Niger-Congo	Africa	9161	531694	✓			u	u	
+btx	BTXLAI	Batak Karo	6.17	Northwest Sumatra-Barrier Islands	Austronesian	Papunesia	11514	773328	✓			u	u	
+bud	BUDIBS	Bassar Ntcham	8.79	Gur	Niger-Congo	Africa	3438	231345	✓			u	u	
+bus	BUSSIM	Bokobaru	6.87	Mande	Niger-Congo	Africa	8931	461347	✓			u	u	
+bwq	BWQBSB	Bobo Madare, Southern	7.62	Mande	Niger-Congo	Africa	8282	482000	✓			u	u	
+bwu	BWUTBL	Buli	7.31	Gur	Niger-Congo	Africa	10005	735408	✓			u	u	
+bzh	BZHPNG	Buang, Central	5.76	Malayo-Polynesian	Austronesian	Papunesia	11506	830639	✓			u	u	
+bzj	BZJBSW	Belize Kriol	6.75	Creole	Creole	North America	9550	657187	✓			u	u	
+cak	CA1WBT	Cakchiquel, South Central	6.14	Mayan	Mayan	North America	11586	974899	✓			u	u	
+caa	CAAWBT	Chorti	6.42	Mayan	Mayan	North America	10774	1004765	✓			u	u	
+cab	CABNVS	Garifuna	7.14	Caribbean Arawakan	Arawakan	North America	6605	485649	✓			u	u	
+cac	CACSBG	Chuj, San Sebastian	7.46	Mayan	Mayan	North America	12938	713546	✓			u	u	
+cak	CAKSBG	Cakchiquel, Central	100	Mayan	Mayan	North America	12070	785804	✓			u	u	
+cap	CAPSBB	Chipaya	6.55	Uru-Chipaya	Uru-Chipaya	South America	9445	771320	✓			u	u	
+car	CARBSS	Carib	7.3	Cariban	Cariban	South America	13065	661880	✓			u	u	
+cax	CAXSBB	Chiquitano	7.34	Chiquito	Chiquito	South America	6527	561574	✓			u	u	
+cbs	CBSBSP	Junikuin	6.4	Panoan	Panoan	South America	12035	1032814	✓			u	u	
+cbt	CBTTBL	Shawi	8.02	Cahuapanan	Cahuapanan	South America	8696	417177	✓			u	u	
+cbv	CBVTBL	Cacua	7.61	Cacua-Nukak	Cacua-Nukak	South America	3509	252517	✓			u	u	
+cce	CCESBM	Txitxopi	6.28	Benue-Congo	Niger-Congo	Africa	10372	755538	✓			u	u	
+ceb	CEBRPV	Cebuano	6.91	Greater Central Philippine	Austronesian	Papunesia	10180	780715	✓		✓	eu	eu	
+ceg	CEGNTP	Chamacoco	6.53	Zamucoan	Zamucoan	South America	13552	872972	✓			u	u	
+cgc	CGCTBL	Kagayanen	6.15	Malayo-Polynesian	Austronesian	Papunesia	11209	1024626	✓			u	u	
+che	CHEIBT	Chechen	7.08	Nakh	Nakh-Daghestanian	Eurasia	2149	157724	✓			u	u	
+cmn	CHNUN1	中文	7.67	Chinese	Sino-Tibetan	Eurasia	2186	183732	✓			u	u	
+chv	CHVIBT	Chuvash	7.3	Turkic	Turkic	Eurasia	491	32697	✓			u	u	
+chz	CHZWBT	Chinantec de Ozumacin	7.67	Chinantecan	Oto-Manguean	North America	3204	241515	✓			u	u	
+cjp	CJPTJV	Cabecar	6.18	Talamanca	Chibchan	North America	9715	621963	✓			u	u	
+cak	CK1WBT	Cakchiquel Santo Domingo Xenacoj	5.48	Mayan	Mayan	North America	11795	1056725	✓			u	u	
+cak	CKIWBT	Cakchiquel, Santa Maria de Jesus	6.8	Mayan	Mayan	North America	11728	817399	✓			u	u	
+cak	CKKWBT	Cakchiquel, Yepocapa	7.02	Mayan	Mayan	North America	11071	872179	✓			u	u	
+cko	CKOGIL	Anufo	6.93	Kwa	Niger-Congo	Africa	7625	603755	✓			u	u	
+cak	CKWNVS	Cakchiquel, Western	7.93	Mayan	Mayan	North America	5756	465472	✓			u	u	
+cle	CLETBL	Chinanteco de San Juan Lealao	6.59	Chinantecan	Oto-Manguean	North America	6201	569144	✓			u	u	
+cme	CMEWBT	Cerma	8.46	Gur	Niger-Congo	Africa	7539	399384	✓			u	u	
+cmo	CMOWBT	Bunong	6.04	Bahnaric	Austro-Asiatic	Eurasia	7105	679421	✓			u	u	
+cmr	CMRWBT	Chin, Mro-Khimi	7.35	Kuki-Chin	Sino-Tibetan	Eurasia	11045	712528	✓			u	u	
+cme	CNHBSM	Chin, Haka	6.06	Gur	Niger-Congo	Africa	10443	788483	✓			u	u	
+cni	CNIWBT	Asheninca	7.76	Pre-Andine Arawakan	Arawakan	South America	11716	622500	✓			u	u	
+cnk	CNKBSM	Chin, Matu	6.2	Kuki-Chin	Sino-Tibetan	Eurasia	10006	833752	✓			u	u	
+cnl	CNLTBL	Chinanteco de San Juan Lalana	7.44	Chinantecan	Oto-Manguean	North America	9889	538972	✓			u	u	
+cac	CNMRGB	Chuj, San Mateo Ixtatan	6.74	Mayan	Mayan	North America	13777	821538	✓			u	u	
+cnt	CNTTBL	Chinanteco de Tepetotutla	7.35	Chinantecan	Oto-Manguean	North America	2890	208209	✓			u	u	
+coe	COEWBT	Koreguaje	6.61	Tucanoan	Tucanoan	South America	8425	632223	✓			u	u	
+cok	COKWBT	Cora, Santa Teresa	5.37	Corachol	Uto-Aztecan	North America	9761	1046146	✓			u	u	
+con	CONWBT	Cofan	6.82	Cofán	Cofán	South America	13440	751197	✓			u	u	
+crh	CRHIBT	Crimean Tatar	5.36	Turkic	Turkic	Eurasia	9086	679588	✓			u	u	
+crn	CRNWBT	Cora, El Nayar	6.92	Corachol	Uto-Aztecan	North America	9436	716461	✓			u	u	
+csk	CSKATB	Jola Kasa	7.48	Northern Atlantic	Niger-Congo	Africa	7128	536055	✓			u	u	
+cso	CSOTBL	Chinanteco de Sochiapan	6.1	Chinantecan	Oto-Manguean	North America	5173	539199	✓			u	u	
+ctd	CT1TEV	Chin, Tiddim	6.61	Kuki-Chin	Sino-Tibetan	Eurasia	8256	706278	✓			u	u	
+ctu	CTUBSM	Chol Tumbala	7.05	Mayan	Mayan	North America	9404	473074	✓			u	u	
+cuc	CUCTBL	Chinanteco de Usila	6.65	Chinantecan	Oto-Manguean	North America	3655	339985	✓			u	u	
+cui	CUIWBT	Cuiba	7.31	Guahiban	Guahiban	South America	10674	915804	✓			u	u	
+cuk	CUKNVS	Kuna San Blas	6.06	Kuna	Chibchan	South America	12341	911486	✓			u	u	
+cwe	CWEPBT	Kwere	7.51	Benue-Congo	Niger-Congo	Africa	7295	605216	✓			u	u	
+cwt	CWTATB	Kwatay	7.4	Northern Atlantic	Niger-Congo	Africa	10732	642605	✓			u	u	
+cya	CYAAVV	Chatino Nopala	8.84	Zapotecan	Oto-Manguean	North America	4959	461927	✓			u	u	
+dni	DA1EST	Dan, East	6.93	Dani	Trans-New Guinea	Papunesia	3985	387343	✓			u	u	
+dni	DA2WST	Dan, West	7.08	Dani	Trans-New Guinea	Papunesia	4408	310180	✓			u	u	
+daa	DAAWYI	Dangaléat	7.04	East Chadic	Afro-Asiatic	Africa	8759	633907	✓			u	u	
+dah	DAHPNG	Gwahatike	7.03	Finisterre-Huon	Trans-New Guinea	Papunesia	11116	830539	✓			u	u	
+dbq	DBQWYI	Daba	100	Biu-Mandara	Afro-Asiatic	Africa	17161	931090	✓			u	u	
+des	DESWBT	Desano	7.46	Tucanoan	Tucanoan	South America	8151	479887	✓			u	u	
+dga	DGABSG	Dagaare, Southern	6.52	Gur	Niger-Congo	Africa	9326	676138	✓			u	u	
+dgi	DGIABB	Daagara, Northern	7.33	Gur	Niger-Congo	Africa	4770	288204	✓			u	u	
+dik	DIKTBL	Dinka, Rek	7.55	Nilotic	Eastern Sudanic	Africa	7026	450257	✓			u	u	
+djk	DJKWBT	Aukaans	7.82	Creole	Creole	South America	13085	634226	✓			u	u	
+acf	DOMBEC	Saint Lucian Creole	5.83	Creole	Creole	North America	10442	722307	✓			u	u	
+dop	DOPBSB	Lokpa	7.95	Gur	Niger-Congo	Africa	9130	562169	✓			u	u	
+dsh	DSHBTL	Daasanach	6.5	Lowland East Cushitic	Afro-Asiatic	Africa	11266	888218	✓			u	u	
+dtp	DTPBSM	Dusun, Central	8.5	Malayo-Polynesian	Austronesian	Papunesia	9771	868011	✓			u	u	
+dts	DTSABM	Dogon, Toroso	8.21	Dogon	Dogon	Africa	5768	327639	✓			u	u	
+dug	DUGBTL	Duruma	6.7	Benue-Congo	Niger-Congo	Africa	9925	828415	✓			u	u	
+dwr	DWRTBL	Dawro	8.27	North Omotic	Afro-Asiatic	Africa	9240	502000	✓			u	u	
+dyi	DYIIBS	Senoufo, Djimini	7.1	Gur	Niger-Congo	Africa	11835	757816	✓			u	u	
+dyo	DYOBSG	Jola-Fogny	7.1	Northern Atlantic	Niger-Congo	Africa	6253	526440	✓			u	u	
+dyu	DYUBSB	Jula	7.1	Western Mande	Mande	Africa	9474	507149	✓			u	u	
+dyu	DYUWYI	Jula	8.43	Western Mande	Mande	Africa	6836	370482	✓			u	u	
+eka	EKAWYI	Ekajuk	7.45	Benue-Congo	Niger-Congo	Africa	8615	573960	✓			u	u	
+emp	EMPWYI	Embera, Northern	7.3	Choco	Choco	South America	6501	402861	✓			u	u	
+eng	EN1NIV	English	6.94	Germanic	Indo-European	Eurasia	8715	594418	✓	✓		wu	wu	
+enb	ENBBTL	Marakwet	7.31	Nilotic	Eastern Sudanic	Africa	7834	628106	✓			u	u	
+enx	ENXBSP	Enxet	5.99	Mascoian	Mascoian	South America	9302	985329	✓			u	u	
+kan	ERVWTC	ಕನ್ನಡ	6.61	Southern Dravidian	Dravidian	Eurasia	6375	1051959	✓			u	u	
+ese	ESENTM	Ese Ejja	6.54	Tacanan	Tacanan	South America	18729	1443937	✓			u	u	
+ess	ESSWYI	St. Lawrence Island Yupik	5.79	Eskimo	Eskimo-Aleut	Eurasia	9443	725630	✓			u	u	
+eus	EUSEAB	Euskara	6.15	Basque	Basque	Eurasia	10828	673078	✓			u	u	
+ewe	EWEBSG	Ewe	6.32	Kwa	Niger-Congo	Africa	10103	582756	✓			u	u	
+ewe	EWEIBS	Ewe	6.72	Kwa	Niger-Congo	Africa	7798	597158	✓			u	u	
+fal	FALTBL	Fali, South	7.7	Northern Atlantic	Niger-Congo	Africa	9095	506258	✓			u	u	
+far	FARWBT	Fataleka	6.29	Malayo-Polynesian	Austronesian	Papunesia	11371	966216	✓			u	u	
+fij	FIJBSP	Fijian	7.57	Oceanic	Austronesian	Papunesia	6162	510992	✓			u	u	
+fin	FINV38	Suomi	5.21	Finnic	Uralic	Eurasia	10364	713953	✓	✓		wu	wu	
+izr	FIZTBL	Izere	6.78	Benue-Congo	Niger-Congo	Africa	8340	598233	✓			u	u	
+cfm	FLMUBS	Chin, Falam	6.69	Kuki-Chin	Sino-Tibetan	Eurasia	12030	800871	✓			u	u	
+fon	FONBSB	Fon (Fongbe)	8.73	Kwa	Niger-Congo	Africa	10578	578288	✓			u	u	
+frd	FRDWBT	Fordata	5.31	Malayo-Polynesian	Austronesian	Papunesia	12266	961289	✓			u	u	
+fra	FRNPDC	Français	8.19	Romance	Indo-European	Eurasia	4785	261684	✓			u	u	
+fra	FRNPDV	Français	8.53	Romance	Indo-European	Eurasia	6819	335220	✓			u	u	wikipron labs not uploaded
+fuf	FUFPBT	Pular	7.61	Northern Atlantic	Niger-Congo	Africa	7641	538558	✓			u	u	
+fuq	FUQWBT	Fulfulde, Central Eastern Niger	7.06	Northern Atlantic	Niger-Congo	Africa	10319	602881	✓			u	u	
+gag	GAGIB1	Gagauz	5.26	Turkic	Turkic	Eurasia	4401	358209	✓			u	u	
+gag	GAGIBT	Gagauz	5.62	Turkic	Turkic	Eurasia	9255	567697	✓			u	u	
+gbi	GBILAI	Galela	7.17	North Halmaheran	West Papuan	Papunesia	11865	1142228	✓			u	u	
+gde	GDEWBT	Gude	7.29	Biu-Mandara	Afro-Asiatic	Africa	7404	507087	✓			u	u	
+gej	GEJBS2	Mina	7.29	Biu-Mandara	Afro-Asiatic	Africa	9050	532190	✓			u	u	
+gil	GILBSP	Kiribati	7.01	Oceanic	Austronesian	Papunesia	8333	644515	✓			u	u	
+gkn	GKNIBS	Gokana	7.97	Cross River	Niger-Congo	Africa	3976	352511	✓			u	u	
+gmv	GMVTBL	Gamo	7.19	North Omotic	Afro-Asiatic	Africa	10663	581402	✓			u	u	
+gng	GNGWYI	Gangam	8.04	Gur	Niger-Congo	Africa	8975	510457	✓			u	u	
+gnw	GNWNTM	Guaraní, Western Bolivian	7.19	Tupi-Guaraní	Tupian	South America	13502	801339	✓			u	u	
+gof	GO1TBL	Gofa	6.51	North Omotic	Afro-Asiatic	Africa	3222	291423	✓			u	u	
+gof	GOFTBL	Gofa	8.23	North Omotic	Afro-Asiatic	Africa	9560	438202	✓			u	u	
+gog	GOGBST	Chigogo	6.97	Benue-Congo	Niger-Congo	Africa	8309	754904	✓			u	u	
+gor	GORLAI	Gorontalo	6.15	Greater Central Philippine	Austronesian	Papunesia	10347	1005700	✓			u	u	
+gqr	GQRWBT	Gor	6.51	Bongo-Bagirmi	Central Sudanic	Africa	9516	630827	✓			u	u	
+gso	GSOCAR	Gbaya, Southwest	7.61	Gbaya-Manza-Ngbaka	Niger-Congo	Africa	8796	457508	✓			u	u	
+gur	GU1WBT	Ninkare	8.12	Gur	Niger-Congo	Africa	6192	396461	✓			u	u	
+gub	GUBWBT	Guajajára	6.41	Tupi-Guaraní	Tupian	South America	25444	1214216	✓			u	u	
+gud	GUDBSC	Dida, Yocoboué	6.95	Kru	Niger-Congo	Africa	7833	539089	✓			u	u	
+gug	GUGRPV	Guarani, Paraguayan	6.59	Tupi-Guaraní	Tupian	South America	9059	543419	✓			u	u	
+guh	GUHWBT	Guahibo	7.64	Guahiban	Guahiban	South America	10495	783507	✓			u	u	
+gui	GUISBU	Guarani, Bolivian	8.15	Tupi-Guaraní	Tupian	South America	4367	226098	✓			u	u	
+gum	GUMTBL	Guambiano	6.37	Barbacoan	Barbacoan	South America	9796	882126	✓			u	u	
+guo	GUOWBT	Guayabero	7.56	Guahiban	Guahiban	South America	12889	724527	✓			u	u	
+guq	GUQLPY	Aché	6.08	Tupi-Guaraní	Tupian	South America	11193	777746	✓			u	u	
+gur	GURIBS	Frafra	8.33	Gur	Niger-Congo	Africa	7272	431680	✓			u	u	
+gux	GUXABB	Gulmancema	7.26	Gur	Niger-Congo	Africa	8748	592704	✓			u	u	
+gvc	GVCTBL	Guanano	7.36	Tucanoan	Tucanoan	South America	8790	642847	✓			u	u	
+gvl	GVLABT	Gulei	7.8	Bongo-Bagirmi	Central Sudanic	Africa	5871	341590	✓			u	u	
+gwr	GWRWBT	Lugwere	6.11	Benue-Congo	Niger-Congo	Africa	10030	933985	✓			u	u	
+gym	GYMWBT	Guaymi	6.44	Guaymiic	Chibchan	North America	6618	667275	✓			u	u	
+gyr	GYRSBB	Guarayo	6.79	Tupi-Guaraní	Tupian	South America	9607	689616	✓			u	u	
+hae	HAEBSE	Oromo, Eastern	6.48	Lowland East Cushitic	Afro-Asiatic	Africa	10276	875198	✓		✓	eu	eu	
+hag	HAGGIL	Hanga	7.18	Gur	Niger-Congo	Africa	6636	486500	✓			u	u	
+hak	HAKTHV	Hakka	6.35	Chinese	Sino-Tibetan	Eurasia	2467	153213	✓			u	u	
+hat	HATSBH	Kreyòl ayisyen	6.99	Creole	Creole	North America	13544	649215	✓			u	u	
+hau	HAUCLV	Hausa	5.74	West Chadic	Afro-Asiatic	Africa	9626	714026	✓		✓	eu	eu	
+hay	HAYBST	Ruhaya	7.11	Benue-Congo	Niger-Congo	Africa	8471	594976	✓			u	u	
+tlx	HEHBST	Kihehe	9.12	Oceanic	Austronesian	Papunesia	9306	718282	✓			u	u	
+hif	HIFBSP	Fiji-Hindi	6.9	Indic	Indo-European	Eurasia	9833	700472	✓			u	u	
+hig	HIGTBL	Higgi	7.79	Biu-Mandara	Afro-Asiatic	Africa	10555	709852	✓			u	u	
+hil	HILHPV	Hiligaynon	6.74	Greater Central Philippine	Austronesian	Papunesia	10213	860182	✓			u	u	
+hin	HNDSKV	हिंदी	6.53	Indic	Indo-European	Eurasia	6686	872299	✓		✓	eu	eu	
+hne	HNEBGC	Chhattisgarhi	6.64	Indic	Indo-European	Eurasia	4536	578854	✓			u	u	
+hnn	HNNOMF	Hanunoo	5.96	Greater Central Philippine	Austronesian	Papunesia	11694	921124	✓			u	u	
+hns	HNSWBT	Sarnami Hindi	6.99	Indic	Indo-European	Eurasia	12788	786251	✓			u	u	
+hto	HTOWBT	Huitoto, Minica	7.01	Huitoto	Huitotoan	South America	11948	643078	✓			u	u	
+hub	HUBWBT	Huambisa	5.98	Jivaroan	Jivaroan	South America	13619	1014073	✓			u	u	
+hui	HUIPNG	Huli	7.72	Engan	Trans-New Guinea	Papunesia	6358	591138	✓			u	u	
+hus	HUSLLB	Huasteco, Veracruz	6.13	Mayan	Mayan	North America	11841	903690	✓			u	u	
+huu	HUUTBL	Huitoto Murui	6.41	Huitoto	Huitotoan	South America	16326	714636	✓			u	u	
+huv	HUVTBL	Huave de San Mateo del Mar	7.04	Huavean	Huavean	North America	6786	485070	✓			u	u	
+iba	IBATIV	Iban	6.47	Malayo-Sumbawan	Austronesian	Papunesia	9779	767639	✓			u	u	
+icr	ICRWYI	San Andres Islander Creole	6.35	Creole	Creole	North America	11422	795616	✓			u	u	
+ifa	IFAWBT	Central Ifugao	5.87	Malayo-Polynesian	Austronesian	Papunesia	10633	893146	✓			u	u	
+ifb	IFBTBL	Ayangan Ifugao	6.24	Northern Luzon	Austronesian	Papunesia	10424	940903	✓			u	u	
+ife	IFEWBT	Ifè	7.77	Ede	Niger-Congo	Africa	2540	176770	✓			u	u	
+ifk	IFKTBL	Tuwali Ifugao	6.7	Malayo-Polynesian	Austronesian	Papunesia	10103	855677	✓			u	u	
+ifu	IFUWPS	Mayoyao Ifugao	6.03	Malayo-Polynesian	Austronesian	Papunesia	11183	958401	✓			u	u	
+ify	IFYWBT	Antipolo Ifugao	6.17	Malayo-Polynesian	Austronesian	Papunesia	10444	948838	✓			u	u	
+ign	IGNSBB	Ignaciano	6.86	Bolivia-Parana	Arawakan	South America	10676	880450	✓			u	u	
+ilo	ILORPV	Ilocano	6.55	Northern Luzon	Austronesian	Papunesia	11314	801725	✓		✓	eu	eu	
+inb	INBWBT	Inga	6.76	Quechuan	Quechuan	South America	10872	712792	✓			u	u	
+ind	INZNTV	Indonesian	7.17	Malayo-Sumbawan	Austronesian	Papunesia	8351	641165	✓		✓	eu	eu	
+ind	INZSHL	Indonesian	6.78	Malayo-Sumbawan	Austronesian	Papunesia	8368	727036	✓		✓	eu	eu	
+ind	INZTSI	Indonesian	6.36	Malayo-Sumbawan	Austronesian	Papunesia	12669	1138304	✓		✓	eu	eu	
+ipi	IPIPNG	Ipili	6.84	Engan	Trans-New Guinea	Papunesia	7587	834689	✓			u	u	
+iri	IRIWYI	Irigwe	7.26	Benue-Congo	Niger-Congo	Africa	6060	453426	✓			u	u	
+irk	IRKBST	Kiiraqw	8.45	Southern Cushitic	Afro-Asiatic	Africa	5881	437234	✓			u	u	
+itv	ITVSTP	Itawit	6.56	Northern Luzon	Austronesian	Papunesia	9641	927960	✓			u	u	
+ixl	IX1WBT	Ixil	5.83	Mayan	Mayan	North America	20151	1237967	✓			u	u	
+ixl	IXIWBT	Ixil	6.45	Mayan	Mayan	North America	15254	1013503	✓			u	u	
+ixl	IXLWBT	Ixil	7.62	Mayan	Mayan	North America	12378	578464	✓			u	u	
+jac	JACWBT	Jacalteco, Eastern	7.06	Mayan	Mayan	North America	11604	945908	✓			u	u	
+jac	JAISBG	Jacalteco, Western	6.27	Mayan	Mayan	North America	12087	876292	✓			u	u	
+jam	JAMBSW	Jamaican Creole	6.32	Creole	Creole	North America	10982	704662	✓			u	u	
+jav	JAVNRF	Javanese, Indonesian	7.33	Javanese	Austronesian	Papunesia	7937	765607	✓		✓	eu	eu	
+jbu	JBUIBS	Jukun	7.86	Platoid	Niger-Congo	Africa	8674	643333	✓			u	u	
+jic	JICWBT	Tol	7.19	Tol	Tol	North America	12140	515725	✓			u	u	
+jiv	JIVAIE	Shuar	6.86	Jivaroan	Jivaroan	South America	8786	549634	✓			u	u	
+jmc	JMCBST	Kimashami	6.76	Benue-Congo	Niger-Congo	Africa	9466	715670	✓			u	u	
+jun	JUNWIN	Juang	6.95	Munda	Austro-Asiatic	Eurasia	4915	801522	✓			u	u	
+jvn	JVNTBL	Javanese, Caribbean	6.85	Malayo-Polynesian	Austronesian	Papunesia	7925	581354	✓			u	u	
+kaa	KAAIBT	Karakalpak	6.66	Turkic	Turkic	Eurasia	6873	559034	✓			u	u	
+kab	KABCEB	Kabyle	7.44	Berber	Afro-Asiatic	Africa	3763	228825	✓			u	u	
+kac	KACUBS	Kachin	6.35	Jingpho	Sino-Tibetan	Eurasia	10089	849543	✓			u	u	
+kao	KAOABM	Khassonke	8.47	Western Mande	Mande	Africa	4054	232511	✓			u	u	
+knt	KAQTBL	Capanahua	100	Panoan	Panoan	South America	16592	936648	✓			u	u	
+kaz	KAZKAZ	Kazakh	6.8	Turkic	Turkic	Eurasia	8093	615770	✓		✓	eu	eu	
+kbp	KBPRCV	Kabiye	7.42	Gur	Niger-Congo	Africa	8024	471582	✓			u	u	
+kbr	KBRSIM	Kafa	7.27	South Omotic	Afro-Asiatic	Africa	10628	753142	✓			u	u	
+kcg	KCGWBT	Tyap	7.45	Platoid	Niger-Congo	Africa	9214	684000	✓			u	u	
+keu	KD1BSU	Kebu	7.03	Kwa	Niger-Congo	Africa	8744	711964	✓			u	u	
+kdc	KDCPBT	Kutu	5.73	Benue-Congo	Niger-Congo	Africa	9310	743915	✓			u	u	
+kdi	KDIBSU	Kumam	6.21	Nilotic	Eastern Sudanic	Africa	8930	696491	✓			u	u	
+kdj	KDJBSU	Karimojong	6.5	Nilotic	Eastern Sudanic	Africa	9898	778655	✓			u	u	
+kdn	KDNBSZ	Chikunda	6.36	Benue-Congo	Niger-Congo	Africa	9831	810803	✓			u	u	
+kek	KEKIBS	Kekchi	6.53	Mayan	Mayan	North America	11886	754633	✓			u	u	
+kek	KEKSBG	Kekchi	6.31	Mayan	Mayan	North America	10769	732752	✓			u	u	
+ken	KENWBT	Kenyang	7.44	Benue-Congo	Niger-Congo	Africa	4755	345125	✓			u	u	
+keo	KEOBSU	Kakwa	6.68	Nilotic	Eastern Sudanic	Africa	8589	821657	✓			u	u	
+ker	KERABT	Kera	7.26	East Chadic	Afro-Asiatic	Africa	9281	647856	✓			u	u	
+kez	KEZLCN	Kukele	7.79	Benue-Congo	Niger-Congo	Africa	4244	310389	✓			u	u	
+khk	KHKMUB	Mongolian, Outer	7.44	Mongolic	Mongolic	Eurasia	2530	242450	✓			u	u	
+kia	KIABSC	Garap	6.83	Adamawa	Niger-Congo	Africa	8212	514876	✓			u	u	
+kia	KIAWBT	Garap	6.33	Adamawa	Niger-Congo	Africa	5623	402448	✓			u	u	
+kij	KIJPNG	Kiriwina	6.25	Oceanic	Austronesian	Papunesia	9445	696285	✓			u	u	
+kjb	KJBSBG	Kanjobal, Eastern	6.82	Mayan	Mayan	North America	13138	826728	✓			u	u	
+kje	KJEWBT	Kisar	6.34	Malayo-Polynesian	Austronesian	Papunesia	10936	914195	✓			u	u	
+kjh	KJHIBT	Khakas	5.44	Turkic	Turkic	Eurasia	6583	540192	✓			u	u	
+kki	KKIBST	Kikagulu	6.63	Benue-Congo	Niger-Congo	Africa	8796	690885	✓			u	u	
+kkj	KKJWBT	Kako	7.88	Benue-Congo	Niger-Congo	Africa	8292	553942	✓			u	u	
+kle	KLENLI	Kulung	5.96	Mahakiranti	Sino-Tibetan	Eurasia	6709	1008789	✓			u	u	
+kmy	KMAWBT	Koma	7.28	Leko-Nimbari	Niger-Congo	Africa	2815	234611	✓			u	u	
+khm	KMHKOV	Khmer, Central	8.67	Khmer	Austro-Asiatic	Eurasia	752	34915	✓			u	u	wikipron lexicon missing -- removing from wikipron set for this project
+kmr	KMRUBS	Kurmancî	7.04	Iranian	Indo-European	Eurasia	9638	566115	✓		✓	eu	eu	
+kne	KNETBL	Kankanaey	5.68	Northern Luzon	Austronesian	Papunesia	10391	862063	✓			u	u	
+knf	KNFWYI	Mankanya	6.57	Northern Atlantic	Niger-Congo	Africa	10136	596717	✓			u	u	
+knj	KNJSBI	Akateko	6.83	Mayan	Mayan	North America	15949	975090	✓			u	u	
+knk	KNKBSL	Kuranko	9.21	Western Mande	Mande	Africa	4044	206552	✓			u	u	
+kno	KNOBSL	Kono	8.09	Mande	Niger-Congo	Africa	9174	542209	✓			u	u	
+kog	KOGWBT	Kogi	6.71	Arhuacic	Chibchan	South America	4975	418527	✓			u	u	
+kpv	KPVIBT	Komi-Zyrian	6.72	Permic	Uralic	Eurasia	7707	526969	✓			u	u	
+kpz	KPZBSU	Kupsapiny	6.74	Nilotic	Eastern Sudanic	Africa	8790	735094	✓			u	u	
+kqe	KQETBL	Kalagan, Eastern	5.88	Greater Central Philippine	Austronesian	Papunesia	11900	1042856	✓			u	u	
+kqp	KQPWBT	Kimre	6.74	East Chadic	Afro-Asiatic	Africa	8903	661658	✓			u	u	
+kqy	KQYBSE	Koorete	7.25	North Omotic	Afro-Asiatic	Africa	638	49789	✓			u	u	
+krc	KRCLIO	Balkar	6.93	Turkic	Turkic	Eurasia	3774	293951	✓			u	u	
+kri	KRINVS	Krio	6.95	Creole	Creole	Africa	10426	694106	✓			u	u	
+krj	KRJWBT	Kinaray-a	6.26	Greater Central Philippine	Austronesian	Papunesia	10718	958313	✓			u	u	
+kru	KRUFMP	Kurukh	6.97	Northern Dravidian	Dravidian	Eurasia	3614	539553	✓			u	u	
+ksb	KSBBST	Kishambala	6.42	Benue-Congo	Niger-Congo	Africa	10893	641404	✓			u	u	
+ktb	KTBBSE	Kambaata	6.87	Highland East Cushitic	Afro-Asiatic	Africa	1721	151144	✓			u	u	
+ktj	KTJWBT	Krumen, Plapo	7	Kru	Niger-Congo	Africa	6066	425966	✓			u	u	
+kub	KUBTBL	Kutep	6.89	Benue-Congo	Niger-Congo	Africa	13100	859230	✓			u	u	
+kue	KUEPNG	Kuman	7.3	Chimbu	Trans-New Guinea	Papunesia	8293	672308	✓			u	u	
+kum	KUMIBT	Kumyk	6.54	Turkic	Turkic	Eurasia	8910	737221	✓			u	u	
+kus	KUSTBL	Kusaal	7.03	Gur	Niger-Congo	Africa	9653	600231	✓			u	u	
+kvn	KVNWBT	Kuna Border	6.8	Kuna	Chibchan	South America	14424	940064	✓			u	u	
+kwi	KWIWBT	Awa for Ecuador	6.8	Barbacoan	Barbacoan	South America	17920	868072	✓			u	u	
+kxc	KXCBSE	Konso	6.56	Lowland East Cushitic	Afro-Asiatic	Africa	4044	440007	✓			u	u	
+kyc	KYCPNG	Kyaka	7.72	Engan	Trans-New Guinea	Papunesia	6179	491417	✓			u	u	
+kyf	KYFWBT	Kouya	8.25	Kru	Niger-Congo	Africa	6971	412156	✓			u	u	
+kyq	KYQWYI	Kenga	7.43	Bongo-Bagirmi	Central Sudanic	Africa	8987	635517	✓			u	u	
+kyz	KYZWBT	Kayabi	6.25	Tupi-Guaraní	Tupian	South America	30321	1342382	✓			u	u	
+kzf	KZFLAI	Kaili, Da'a	6.55	Celebic	Austronesian	Papunesia	12738	934490	✓			u	u	
+laj	LAJBSU	Lango	7.76	Nilotic	Eastern Sudanic	Africa	6060	398857	✓			u	u	
+lao	LAOUBS	ລາວ	6.6	Kam-Tai	Tai-Kadai	Eurasia	7176	817710	✓		✓	eu	eu	
+las	LASABT	Lamba for Togo	7.87	Gur	Niger-Congo	Africa	6285	371552	✓			u	u	
+law	LAWNTM	Lauje	6.41	Celebic	Austronesian	Papunesia	17499	1422946	✓			u	u	
+lee	LEEWBT	Lyele	8.06	Gur	Niger-Congo	Africa	2380	139456	✓			u	u	
+lef	LEFTBL	Lelemi	7.33	Kwa	Niger-Congo	Africa	9281	663115	✓			u	u	
+lem	LEMWBT	Nomaande	6.56	Moru-Ma'di	Central Sudanic	Africa	6512	614313	✓			u	u	
+lew	LEWLAI	Ledo Kaili	7.03	Celebic	Austronesian	Papunesia	10614	735461	✓			u	u	
+lex	LEXWBT	Luang	6.12	Malayo-Polynesian	Austronesian	Papunesia	14021	1093777	✓			u	u	
+lgg	LGGBSU	Lugbara	6.81	Moru-Ma'di	Central Sudanic	Africa	9496	657593	✓			u	u	
+lhu	LHUTBS	Lahu	6.72	Burmese-Lolo	Sino-Tibetan	Eurasia	10554	953902	✓			u	u	
+lia	LIABSL	Limba West	7.3	Limba	Niger-Congo	Africa	4882	395286	✓			u	u	
+lip	LIPWBT	Sekpele	6.59	Kwa	Niger-Congo	Africa	8549	631229	✓			u	u	
+ljp	LJPLAI	Lampung	6.41	Lampungic	Austronesian	Papunesia	11952	805295	✓			u	u	
+lln	LLNABT	Lélé (Chad)	6.83	East Chadic	Afro-Asiatic	Africa	8741	751643	✓			u	u	
+lme	LMEABT	Peve	7.7	Masa	Afro-Asiatic	Africa	3885	255348	✓			u	u	
+lnd	LNDBSM	Lun Bawang - Lun Dayah	6.49	North Borneo	Austronesian	Papunesia	9709	757931	✓			u	u	
+lob	LOBBSB	Lobiri	6.99	Gur	Niger-Congo	Africa	3174	203153	✓			u	u	
+lok	LOKLBT	Loko	7.13	Western Mande	Mande	Africa	9173	779607	✓			u	u	
+lon	LONBSM	Elhomwe	5.83	Benue-Congo	Niger-Congo	Africa	9568	826713	✓			u	u	
+lsi	LSIBSM	Lacid	7.61	Burmese-Lolo	Sino-Tibetan	Eurasia	25108	540261	✓			u	u	
+lsm	LSMBSU	Lusamya-Lugwe	6.84	Benue-Congo	Niger-Congo	Africa	9754	897270	✓			u	u	
+lat	LTNNVV	Latin	5.82	Romance	Indo-European	Eurasia	9302	548121	✓	✓		wu	wu	
+luc	LUCHLA	Aringa	6.51	Moru-Ma'di	Central Sudanic	Africa	4830	461226	✓			u	u	
+lwo	LWOWBT	Luwo	8.37	Nilotic	Eastern Sudanic	Africa	8033	584633	✓			u	u	
+maa	MAASAV	Mazatec (San Antonio & San Jeronimo)	7.65	Popolocan	Oto-Manguean	North America	4263	340030	✓			u	u	
+maa	MAASJV	Mazatec (San Antonio & San Jeronimo)	7.86	Popolocan	Oto-Manguean	North America	3933	295203	✓			u	u	
+mad	MADIBS	Madurese	7.43	Malayo-Sumbawan	Austronesian	Papunesia	11371	869164	✓			u	u	
+mag	MAGSSI	Magahi	6.36	Indic	Indo-European	Eurasia	5969	705178	✓			u	u	
+mah	MAHWGM	Marshallese	7.94	Oceanic	Austronesian	Papunesia	3045	208143	✓	✓		wu	wu	
+mai	MAIWBT	Maithili	7.15	Indic	Indo-European	Eurasia	3956	587241	✓			u	u	
+maj	MAJTBL	Mazateco, Jalapa de Diaz	8.31	Popolocan	Oto-Manguean	North America	4897	346578	✓			u	u	
+mak	MAKLAI	Makassar	6.36	South Sulawesi	Austronesian	Papunesia	13509	1018138	✓			u	u	
+mam	MAMSBG	Mam, Northern	6.28	Mamean	Mayan	North America	11759	818615	✓			u	u	
+mar	MARWTC	Marathi	6.79	Indic	Indo-European	Eurasia	7496	1131245	✓		✓	eu	eu	
+maw	MAWWBT	Mampruli	7.63	Gur	Niger-Congo	Africa	10036	691799	✓			u	u	
+maz	MAZTBL	Mazahua, Central	6.99	Otomian	Oto-Manguean	North America	17052	853414	✓			u	u	
+mbb	MBBWPS	Manobo, Western Bukidnon	6.59	Greater Central Philippine	Austronesian	Papunesia	11932	1116829	✓			u	u	
+mbt	MBTWBT	Matigsalug	6.41	Greater Central Philippine	Austronesian	Papunesia	9955	872079	✓			u	u	
+mca	MCAWYI	Maka	6.07	Matacoan	Matacoan	South America	11398	997091	✓			u	u	
+mcb	MCBTBL	Matsigenka	6.61	Pre-Andine Arawakan	Arawakan	South America	13570	1253406	✓			u	u	
+mcd	MCDTBL	Sharanahua	6.03	Panoan	Panoan	South America	19966	1159950	✓			u	u	
+mco	MCOTBL	Mixe de Coatlan	7.86	Mixe-Zoque	Mixe-Zoque	North America	1077	83606	✓			u	u	
+mcp	MCPWBT	Makaa	6.9	Benue-Congo	Niger-Congo	Africa	10413	656088	✓			u	u	
+mcq	MCQTBL	Ese	6.61	Ese	Trans-New Guinea	Papunesia	11469	800587	✓			u	u	
+mcu	MCUTBL	Mambila for Cameroon	7.62	Benue-Congo	Niger-Congo	Africa	8978	534141	✓			u	u	
+mda	MDAWBT	Mada	6.62	Platoid	Niger-Congo	Africa	6585	596443	✓			u	u	
+mdy	MDYBSE	Maale	6.59	North Omotic	Afro-Asiatic	Africa	7758	831938	✓			u	u	
+mej	MEJTBL	Meyah	6.2	East Bird's Head	East Bird's Head	Papunesia	15506	1329314	✓			u	u	
+men	MENBSL	Mende	7.65	Western Mande	Mande	Africa	7045	518377	✓			u	u	
+meq	MEQWBT	Merey	8.14	Biu-Mandara	Afro-Asiatic	Africa	11013	660314	✓			u	u	
+mfq	MF1WBT	Moba	8.05	Gur	Niger-Congo	Africa	8444	481547	✓			u	u	
+mfe	MFEBSM	Mauritian Kreol	7	Creole	Creole	Africa	9109	557890	✓	✓		wu	wu	
+mfi	MFIWYI	Mandara	7.89	Biu-Mandara	Afro-Asiatic	Africa	6216	494235	✓			u	u	
+mfk	MFKABC	Mofu, North	7	Biu-Mandara	Afro-Asiatic	Africa	5491	450990	✓			u	u	
+mfq	MFQABT	Moba Lok	7.15	Gur	Niger-Congo	Africa	8475	538130	✓			u	u	
+mfy	MFYWBT	Mayo	6.29	Cahita	Uto-Aztecan	North America	7653	492656	✓			u	u	
+mfz	MFZBSS	Mabaan	6.74	Nilotic	Eastern Sudanic	Africa	5249	485073	✓			u	u	
+mgd	MGDBSS	Moru	6.48	Moru-Ma'di	Central Sudanic	Africa	9399	628263	✓			u	u	
+mgo	MGOWYI	Meta'	6.42	Benue-Congo	Niger-Congo	Africa	7129	542707	✓			u	u	
+mhi	MHIBSU	Ma'di	7.13	Moru-Ma'di	Central Sudanic	Africa	10123	558859	✓			u	u	
+mos	MHMBSB	Moore	7.17	Gur	Niger-Congo	Africa	6400	350941	✓			u	u	
+mos	MHMCAT	Moore	7.54	Gur	Niger-Congo	Africa	10112	507463	✓			u	u	
+mhx	MHXBSM	Lhaovo	7.64	Burmese-Lolo	Sino-Tibetan	Eurasia	21960	422972	✓			u	u	
+mhy	MHYLAI	Dayak Ma'anyan	6.37	Barito	Austronesian	Papunesia	12294	862675	✓			u	u	
+mib	MIBTBL	Mixtec, Atatláhuca	6.17	Mixtecan	Oto-Manguean	North America	12730	791215	✓			u	u	
+mif	MIFWBT	Mofu-Gudur	8	Biu-Mandara	Afro-Asiatic	Africa	10308	683399	✓			u	u	
+mil	MILTBL	Mixteco de Penoles	6.7	Mixtecan	Oto-Manguean	North America	4685	572313	✓			u	u	
+min	MINLAI	Minangkabau	6.34	Malayo-Sumbawan	Austronesian	Papunesia	11811	1025184	✓			u	u	
+mio	MIOWBT	Mixtec, Pinotepa Nacional	5.96	Mixtecan	Oto-Manguean	North America	11208	774293	✓			u	u	
+miq	MIQSBN	Mískito	6.16	Misumalpan	Misumalpan	North America	5977	408386	✓			u	u	
+mit	MITTBL	Mixteco del Sur de Puebla	6.45	Mixtecan	Oto-Manguean	North America	11388	852939	✓			u	u	
+miy	MIYWYI	Mixteco de Ayutla	6.07	Mixtecan	Oto-Manguean	North America	10814	1061090	✓			u	u	
+mal	MJSWTC	Malayalam	8.67	Southern Dravidian	Dravidian	Eurasia	633	117668	✓			u	u	
+mlg	MLGEIV	Malagasy	8.77	Barito	Austronesian	Papunesia	4666	319802	✓	✓		wu	wu	
+mlg	MLGRCV	Malagasy	7.34	Barito	Austronesian	Papunesia	6576	488609	✓	✓		wu	wu	
+mlg	MLGRPV	Malagasy	6.27	Barito	Austronesian	Papunesia	8999	644722	✓	✓		wu	wu	
+zlm	MLYBSM	Malay Bahasa	6.31	Malayo-Sumbawan	Austronesian	Papunesia	11646	913343	✓			u	u	
+mam	MMSBSG	Mam, Southern	6.67	Mamean	Mayan	North America	9814	648027	✓			u	u	
+mnb	MNBTBL	Muna	6.72	Celebic	Austronesian	Papunesia	9635	743141	✓			u	u	
+mnf	MNFCAB	Mundani	6.83	Benue-Congo	Niger-Congo	Africa	9208	697918	✓			u	u	
+mnk	MNKBSG	Mandinka	6.8	Western Mande	Mande	Africa	9069	661630	✓			u	u	
+moa	MOAWBT	Mwan	7.82	Mande	Niger-Congo	Africa	12019	808916	✓			u	u	
+mog	MOGLAI	Mongondow	6.65	Greater Central Philippine	Austronesian	Papunesia	11078	926552	✓			u	u	
+mop	MOPWBT	Maya, Mopan	6.95	Mayan	Mayan	North America	14656	823867	✓			u	u	
+mor	MORBSS	Nuba Moro	6.58	Heiban	Kordofanian	Africa	7034	722116	✓			u	u	
+mpg	MPGABT	Azumeina	7.73	Masa	Afro-Asiatic	Africa	6174	387285	✓			u	u	
+mpm	MPMTBL	Mixteco de Santiago Yosundua	6.69	Mixtecan	Oto-Manguean	North America	9223	614709	✓			u	u	
+mpx	MPXPNG	Misima-Panaeyati	6.34	Oceanic	Austronesian	Papunesia	9882	836818	✓			u	u	
+mqb	MQBWBT	Mbuko	7.89	Biu-Mandara	Afro-Asiatic	Africa	7696	499793	✓			u	u	
+mqj	MQJLAI	Mamasa	6.28	South Sulawesi	Austronesian	Papunesia	11062	841317	✓			u	u	
+mrw	MRWNVS	Maranao	6.04	Greater Central Philippine	Austronesian	Papunesia	9549	854216	✓			u	u	
+msy	MSYPNG	Aruamu	6.51	Mikarew	Lower Sepik-Ramu	Papunesia	10755	743041	✓			u	u	
+muh	MUHWBT	Mundu	8.41	Ubangi	Niger-Congo	Africa	9464	615234	✓			u	u	
+mup	MUPNLL	Malvi	6.51	Indic	Indo-European	Eurasia	5570	700660	✓			u	u	
+mur	MURTBL	Murle	7.83	Surmic	Eastern Sudanic	Africa	4910	346158	✓			u	u	
+muy	MUYWBT	Muyang	6.57	Biu-Mandara	Afro-Asiatic	Africa	8052	663557	✓			u	u	
+mam	MVCNVS	Mam, Central	7.31	Mamean	Mayan	North America	10212	707092	✓			u	u	
+mam	MVJWBT	Mam, Todos Santos	7.09	Mamean	Mayan	North America	13571	924324	✓			u	u	
+mvp	MVPLAI	Duri	6.86	South Sulawesi	Austronesian	Papunesia	11232	829110	✓			u	u	
+mwv	MWVLAI	Mentawai	6.64	Northwest Sumatra-Barrier Islands	Austronesian	Papunesia	9947	719458	✓			u	u	
+mww	MWWHDV	Hmong Daw	7.24	Hmong-Mien	Hmong-Mien	Eurasia	7382	630443	✓	✓		wu	wu	
+mxb	MXBMVR	Mixteco de Tezoatlan	6.04	Mixtecan	Oto-Manguean	North America	6890	544644	✓			u	u	
+mxt	MXTTBL	Mixteco de Jamiltepec	7.43	Mixtecan	Oto-Manguean	North America	10082	630978	✓			u	u	
+myb	MYBABT	Mbay	8.41	Bongo-Bagirmi	Central Sudanic	Africa	3655	219667	✓			u	u	
+myk	MYKWBT	Miniyanka	8.01	Senufo	Niger-Congo	Africa	8160	455339	✓			u	u	
+myx	MYXBSU	Lumasaaba	6.14	Benue-Congo	Niger-Congo	Africa	9770	861748	✓			u	u	
+myy	MYYWBT	Macuna	5.8	Tucanoan	Tucanoan	South America	18344	1059913	✓			u	u	
+mza	MZAWBT	Mixtec, Zacatepec	6.33	Mixtecan	Oto-Manguean	North America	10048	810445	✓			u	u	
+mzk	MZKTBL	Mambila for Nigeria	6.87	Benue-Congo	Niger-Congo	Africa	9923	669767	✓			u	u	
+mzm	MZMWBT	Mumuye	7.73	Adamawa	Niger-Congo	Africa	5663	400132	✓			u	u	
+nan	NANTTV	Hokkien	6.81	Chinese	Sino-Tibetan	Eurasia	9200	721234	✓			u	u	
+nas	NASPNG	Naasioi	6.1	East Bougainville	East Bougainville	Papunesia	9611	889623	✓			u	u	
+nch	NCHTBL	Nahuatl Huasteca, Central	6.26	Aztecan	Uto-Aztecan	North America	12587	1074021	✓			u	u	
+ncj	NCJTBL	Nahuatl Norte Puebla	6.41	Aztecan	Uto-Aztecan	North America	12284	963672	✓			u	u	
+ncu	NCUWBT	Chumburung	7.29	Kwa	Niger-Congo	Africa	7391	685939	✓			u	u	
+ndz	NDZWBT	Ndogo	6.86	Ubangi	Niger-Congo	Africa	3613	290671	✓			u	u	
+neb	NEBWYI	Toura	6.85	Mande	Niger-Congo	Africa	12202	791096	✓			u	u	
+new	NEWNCL	Newar	6.06	Mahakiranti	Sino-Tibetan	Eurasia	7911	944539	✓			u	u	
+nfr	NFRIBS	Nafaanra	6.83	Gur	Niger-Congo	Africa	7665	571613	✓			u	u	
+ngu	NGUTBL	Nahuatl, Guerrero	7.04	Aztecan	Uto-Aztecan	North America	7671	658737	✓			u	u	
+nhx	NH1NMV	Nahuatl, Mecayapan	6.11	Aztecan	Uto-Aztecan	North America	9522	718842	✓	✓		wu	wu	
+nhe	NHETBL	Nahuatl Huasteca, Eastern	6.33	Aztecan	Uto-Aztecan	North America	13600	1169068	✓			u	u	
+nhi	NHIWBT	Nahuatl, Tenango	6.44	Aztecan	Uto-Aztecan	North America	8891	790390	✓			u	u	
+nhu	NHUWBT	Nooni	7.23	Benue-Congo	Niger-Congo	Africa	7848	676506	✓			u	u	
+nhw	NHWTBL	Nahuatl Huasteca, Western	7.12	Aztecan	Uto-Aztecan	North America	10206	910820	✓			u	u	
+nhx	NHXNTV	Nahuatl, Tatahuicapan	6.24	Aztecan	Uto-Aztecan	North America	10610	805462	✓	✓		wu	wu	
+nhy	NHYTBL	Nahuatl, Norte de Oaxaca	5.92	Aztecan	Uto-Aztecan	North America	11948	965153	✓			u	u	
+nia	NIAIBS	Nias	6.81	Northwest Sumatra-Barrier Islands	Austronesian	Papunesia	12382	739303	✓			u	u	
+nij	NIJLAI	Ngaju	7.27	Barito	Austronesian	Papunesia	10486	706670	✓			u	u	
+nim	NIMBST	Kinyiramba	6.74	Benue-Congo	Niger-Congo	Africa	8274	628775	✓			u	u	
+nin	NINWYI	Ninzo	5.91	Benue-Congo	Niger-Congo	Africa	11644	769532	✓			u	u	
+nko	NKOWBT	Nkonya	6.79	Kwa	Niger-Congo	Africa	10274	576889	✓			u	u	
+nlc	NLCLAI	Nalca	6.68	Mek	Trans-New Guinea	Papunesia	10560	1045384	✓			u	u	
+nmz	NMZWSB	Nawdm	8.3	Gur	Niger-Congo	Africa	5674	304547	✓			u	u	
+nnb	NNBBSU	Kinandi	7.25	Benue-Congo	Niger-Congo	Africa	9610	712858	✓			u	u	
+nnw	NNWWBT	Nuni, Southern	7.57	Gur	Niger-Congo	Africa	7709	445999	✓			u	u	
+nod	NODWBT	กำเมือง	5.85	Kam-Tai	Tai-Kadai	Eurasia	6817	977004	✓			u	u	
+nog	NOGIBT	Nogai	5.39	Turkic	Turkic	Eurasia	7411	508324	✓			u	u	
+not	NOTTBL	Nomatsiguenga	6.32	Pre-Andine Arawakan	Arawakan	South America	18589	1121753	✓			u	u	
+npl	NPLWYI	Nahuatl, Southeastern Puebla	6.38	Aztecan	Uto-Aztecan	North America	11036	830588	✓			u	u	
+npy	NPYLAI	Napu	6.71	Celebic	Austronesian	Papunesia	13276	815221	✓			u	u	
+nsu	NSUWBT	Nahuatl, Sierra Negra	6.67	Aztecan	Uto-Aztecan	North America	1700	120231	✓			u	u	
+ntm	NTMWBT	Nateni	7.36	Gur	Niger-Congo	Africa	6800	510733	✓			u	u	
+ntr	NTRWBT	Ntrubo	7.99	Gur	Niger-Congo	Africa	7573	610426	✓			u	u	
+nuj	NUJWBT	Lunyole	5.93	Benue-Congo	Niger-Congo	Africa	9506	830891	✓			u	u	
+nus	NUSBSS	Nuer	6.92	Nilotic	Eastern Sudanic	Africa	4647	329776	✓			u	u	
+nwb	NWBWBT	Nyaboa	7.73	Kru	Niger-Congo	Africa	10467	717346	✓			u	u	
+nyf	NYFBTL	Giryama	6.79	Benue-Congo	Niger-Congo	Africa	9159	711006	✓			u	u	
+nyn	NYNBSU	Runyankore-Rukiga	7.97	Benue-Congo	Niger-Congo	Africa	7411	488941	✓			u	u	
+nyo	NYOBSU	Runyoro-Rutoro	7.09	Benue-Congo	Niger-Congo	Africa	10077	655137	✓			u	u	
+nyy	NYYBST	Kinyakyusa	6.65	Benue-Congo	Niger-Congo	Africa	10755	781855	✓			u	u	
+nzi	NZIBSG	Nzima	7.16	Kwa	Niger-Congo	Africa	7340	559807	✓			u	u	
+obo	OBOWBT	Minonuvu	5.77	Malayo-Polynesian	Austronesian	Papunesia	11047	1016753	✓			u	u	
+ojc	OJ1CBS	Ojibwe	6.07	Algonquian	Algic	North America	14324	1205079	✓			u	u	
+oku	OKUWYI	Oku	8.29	Benue-Congo	Niger-Congo	Africa	5232	378255	✓			u	u	
+old	OLDBST	Kimochi	6.89	Benue-Congo	Niger-Congo	Africa	9026	686095	✓			u	u	
+omw	OM1TBL	Omwunra Toqura	5.77	Kainantu	Trans-New Guinea	Papunesia	13227	1239650	✓			u	u	
+ori	ORYWTC	Oriya	7.58	Indic	Indo-European	Eurasia	1414	228791	✓	✓		wu	wu	
+oss	OSSIBT	Ossetic	6.27	Iranian	Indo-European	Eurasia	5474	489142	✓			u	u	
+ote	OTETBL	Nahnu Otomi Mezquital	6.77	Otomian	Oto-Manguean	North America	5454	406971	✓			u	u	
+ozm	OZMTBL	Koonzime	8.02	Benue-Congo	Niger-Congo	Africa	4886	283785	✓			u	u	
+pab	PABTBL	Parecis	6.12	Central Arawakan	Arawakan	South America	14782	1042356	✓			u	u	
+pad	PADTBL	Paumari	5.43	Arauan	Arauan	South America	26984	1511618	✓			u	u	
+pag	PAGPBS	Pangasinan	6.66	Northern Luzon	Austronesian	Papunesia	11075	758385	✓			u	u	
+pam	PAMPBS	Pampangan	6.63	Central Luzon	Austronesian	Papunesia	10672	786805	✓			u	u	
+pau	PAUUBS	Palauan	6.69	Palauan	Austronesian	Papunesia	7071	598905	✓			u	u	
+pbb	PBBWBT	Nasa Yuwe	7.18	Páezan	Páezan	South America	7477	521103	✓			u	u	
+pbc	PBCBSS	Patamona	6.28	Cariban	Cariban	South America	10814	896038	✓			u	u	
+pbi	PBIWYI	Podoko	6.94	Biu-Mandara	Afro-Asiatic	Africa	10332	729696	✓			u	u	
+pcm	PCMTSC	Nigerian Pidgin	6.92	Creole	Creole	Africa	8552	538713	✓			u	u	
+pes	PESTPV	فارسی	7.31	Iranian	Indo-European	Eurasia	2370	154901	✓			u	u	
+pir	PIRWBT	Piratapuyo	6.5	Tucanoan	Tucanoan	South America	16416	1011871	✓			u	u	
+pis	PISWBT	Pijin	6.13	Creole	Creole	Papunesia	11692	1034538	✓			u	u	
+pkb	PKBBTL	Pokomo	6.54	Benue-Congo	Niger-Congo	Africa	5104	386752	✓			u	u	
+pls	PLSWYI	Ngigua, San Marcos Tlacoyalco	5.87	Popolocan	Oto-Manguean	North America	4100	261710	✓			u	u	
+plw	PLWWBT	Palawano, Brooke's Point	6.16	Malayo-Polynesian	Austronesian	Papunesia	10903	964582	✓			u	u	
+pmf	PMFNTM	Bahasa Taa	6.3	Celebic	Austronesian	Papunesia	14897	1310827	✓			u	u	
+poe	POEWYI	Ngiva, San Juan Atzingo	6.54	Popolocan	Oto-Manguean	North America	4477	353402	✓			u	u	
+poh	POHBSG	Pokomchi, Eastern	6.47	Mayan	Mayan	North America	12544	1036548	✓			u	u	
+poh	POHPOC	Pokomchi, Eastern	5.29	Mayan	Mayan	North America	10225	761491	✓			u	u	
+poi	POITBL	Popoluca de la Sierra	7.95	Mixe-Zoque	Mixe-Zoque	North America	12669	775363	✓			u	u	
+pol	POLNCV	Polski	7.68	Slavic	Indo-European	Eurasia	4369	265616	✓		✓	eu	eu	
+por	PORARA	Português	7.16	Romance	Indo-European	Eurasia	8054	484637	✓	✓		wu	wu	
+por	PORARC	Português	7.63	Romance	Indo-European	Eurasia	6592	403809	✓	✓		wu	wu	
+por	PORBSP	Português	8.15	Romance	Indo-European	Eurasia	3417	219905	✓	✓		wu	wu	
+por	PORNLH	Português	7.9	Romance	Indo-European	Eurasia	5837	362529	✓	✓		wu	wu	
+ppk	PPKLAI	Uma	6.67	Celebic	Austronesian	Papunesia	15540	886830	✓			u	u	
+prf	PRFWBT	Paranan	6.02	Malayo-Polynesian	Austronesian	Papunesia	10861	836131	✓			u	u	
+prs	PRSGNN	Dari	6.9	Iranian	Indo-European	Eurasia	5230	365331	✓			u	u	
+pse	PSELAI	Serawai	6.57	Malayo-Polynesian	Austronesian	Papunesia	11328	784636	✓			u	u	
+ptu	PTULAI	Bambam	5.78	South Sulawesi	Austronesian	Papunesia	12559	931567	✓			u	u	
+pui	PUISMV	Puinave	5.23	Puinave	Puinave	South America	11074	847670	✓			u	u	
+pww	PWWTBS	Karen Pwo, Northern	5.53	Karen	Sino-Tibetan	Eurasia	7022	895202	✓			u	u	
+pxm	PXMBSM	Mixe Quetzaltepec	6.08	Mixe-Zoque	Mixe-Zoque	North America	11265	882247	✓			u	u	
+qvh	QEJLLB	Quechua, Huamalies Dos de Mayo	6.17	Quechuan	Quechuan	South America	12572	832794	✓			u	u	
+quc	QU1LSM	K'iche', Cunén	6.37	Mayan	Mayan	North America	10470	839885	✓			u	u	
+qub	QUBPBS	Quechua, Huallaga	7.06	Quechuan	Quechuan	South America	11115	637469	✓			u	u	
+quc	QUCBLA	Quiche	6.31	Mayan	Mayan	North America	10720	825982	✓			u	u	
+quf	QUFLLB	Quechua, Lambayeque	6.87	Quechuan	Quechuan	South America	14180	1030575	✓			u	u	
+quh	QUHRBV	Quechua, South Bolivian	6.55	Quechuan	Quechuan	South America	13381	974389	✓			u	u	
+quh	QUHSBB	Quechua, South Bolivian	6.96	Quechuan	Quechuan	South America	9667	673656	✓			u	u	
+quc	QUJPMC	Quiche, Joyabaj	6.42	Mayan	Mayan	North America	15027	1059400	✓			u	u	
+qul	QULSBB	Quechua, North Bolivian	6.71	Quechuan	Quechuan	South America	11178	1034546	✓			u	u	
+qup	QUPTBL	Quechua, Southern Pastaza	6.13	Quechuan	Quechuan	South America	16108	1233971	✓			u	u	
+quc	QUTIBS	Quiche, West Central	7.12	Mayan	Mayan	North America	11604	832894	✓			u	u	
+quw	QUWHLE	Quichua, Tena Lowland	6.25	Quechuan	Quechuan	South America	10546	676074	✓			u	u	
+quy	QUYSBU	Quechua, Ayacucho	7.16	Quechuan	Quechuan	South America	8884	699280	✓			u	u	
+quz	QUZPBS	Quechua, Cuzco	6.75	Quechuan	Quechuan	South America	9711	771678	✓			u	u	
+qvc	QVCTBL	Quechua, Cajamarca	7.84	Quechuan	Quechuan	South America	9247	588242	✓			u	u	
+qvm	QVMTBL	Quechua, Margos	6.08	Quechuan	Quechuan	South America	13791	962979	✓			u	u	
+qvn	QVNLLB	Quechua, North Junin	7.31	Quechuan	Quechuan	South America	10138	744122	✓			u	u	
+qvo	QVOVAA	Quichua, Napo Lowland	6.44	Quechuan	Quechuan	South America	10846	709407	✓			u	u	
+qvs	QVSTBL	Quechua, San Martin	6.76	Quechuan	Quechuan	South America	14776	1007684	✓			u	u	
+qvw	QVWTBL	Quechua, Huaylla Wanca	6.7	Quechuan	Quechuan	South America	12233	826735	✓			u	u	
+qvz	QVZWBT	Quichua, Northern Pastaza	6.08	Quechuan	Quechuan	South America	12813	1039217	✓			u	u	
+qwh	QWHLLB	Quechua, Huaylas	6.6	Quechuan	Quechuan	South America	10098	678926	✓			u	u	
+qxh	QXHWBT	Quechua, Panao Huanuco	8.23	Quechuan	Quechuan	South America	7998	402001	✓			u	u	
+qxn	QXNWBT	Quechua, Northern Conchucos Ancash	5.86	Quechuan	Quechuan	South America	11406	956149	✓			u	u	
+qxr	QXRBSE	Quichua Cañar Highland	5.61	Quechuan	Quechuan	South America	13608	918922	✓			u	u	
+rej	REJLAI	Rejang	6.25	Rejang	Austronesian	Papunesia	11082	725683	✓			u	u	
+rim	RIMBST	Kinyaturu	6.73	Benue-Congo	Niger-Congo	Africa	9338	732333	✓			u	u	
+rmo	RMORAM	Romani, Sinti	6.61	Indic	Indo-European	Eurasia	15295	801966	✓			u	u	
+rmy	RMYCVV	Romane, Vlax	6.82	Indic	Indo-European	Eurasia	7172	521653	✓			u	u	
+ron	RONBSR	Român	6.78	Romance	Indo-European	Eurasia	2876	209964	✓		✓	eu	eu	
+rug	RUGWBT	Roviana	5.73	Oceanic	Austronesian	Papunesia	11190	927775	✓			u	u	
+run	RUNBSB	Kirundi	8.28	Benue-Congo	Niger-Congo	Africa	3816	208226	✓			u	u	
+rus	RUSS76	Русский	5.6	Slavic	Indo-European	Eurasia	9467	534437	✓		✓	eu	eu	
+sag	SAGCAR	Sango	6.68	Ubangi	Niger-Congo	Africa	12314	749759	✓			u	u	
+sas	SASLAI	Sasak	6.28	Malayo-Sumbawan	Austronesian	Papunesia	7093	566337	✓			u	u	
+sba	SBANVV	Ngambay	7.49	Bongo-Bagirmi	Central Sudanic	Africa	2905	213614	✓			u	u	
+khi	SBDABB	San	8.33	Khoe-Kwadi	Khoe-Kwadi	Africa	4905	292704	✓			u	u	
+xsb	SBLTBL	Sambal, Botolan	5.98	Central Luzon	Austronesian	Papunesia	12485	1028665	✓			u	u	
+sda	SDALAI	Toraja	6.32	South Sulawesi	Austronesian	Papunesia	10319	761754	✓			u	u	
+seh	SEHBSM	Chisena	6.56	Benue-Congo	Niger-Congo	Africa	11581	815113	✓			u	u	
+sey	SEYWBT	Secoya	6.1	Tucanoan	Tucanoan	South America	13415	825426	✓			u	u	
+sgb	SGBTBL	Ayta Mag-antsi	6.38	Central Luzon	Austronesian	Papunesia	9089	817141	✓			u	u	
+sgw	SGWBSE	Gurage Chaha	6.6	Semitic	Afro-Asiatic	Africa	6040	604357	✓			u	u	
+shi	SHIRBD	تاشلحيت	4.96	Berber	Afro-Asiatic	Africa	8255	591942	✓			u	u	
+shk	SHKBSS	Shilluk	6.88	Nilotic	Eastern Sudanic	Africa	4706	291892	✓			u	u	
+shp	SHPTBL	Shipibo	6.46	Panoan	Panoan	South America	12979	919113	✓			u	u	
+sig	SIGWBT	Paasaal	7.49	Gur	Niger-Congo	Africa	4188	318332	✓			u	u	
+sil	SILGIL	Sisaala, Tumulung	8	Gur	Niger-Congo	Africa	10241	578205	✓			u	u	
+sja	SJATBL	Epera pedee	7.27	Choco	Choco	South America	6993	407780	✓			u	u	
+sld	SLDTBL	Sissala	7.58	Gur	Niger-Congo	Africa	9439	648443	✓			u	u	
+sml	SMLTBL	Sinama	6.74	Malayo-Polynesian	Austronesian	Papunesia	12259	868469	✓			u	u	
+smo	SMOBSP	Samoan	6.35	Oceanic	Austronesian	Papunesia	9550	783187	✓			u	u	
+snn	SNNWBT	Siona	5.91	Tucanoan	Tucanoan	South America	14201	1032777	✓			u	u	
+snw	SNWWBT	Selee	6.45	Kwa	Niger-Congo	Africa	11641	850049	✓			u	u	
+som	SOMSIM	Somali	8.28	Lowland East Cushitic	Afro-Asiatic	Africa	5226	466172	✓		✓	eu	eu	
+soy	SOYSIM	Sola	7.19	Gur	Niger-Congo	Africa	8755	506557	✓			u	u	
+spa	SPNBDA	Español	6.21	Romance	Indo-European	Eurasia	9513	609464	✓		✓	eu	eu	
+spa	SPNDHH	Español	7.91	Romance	Indo-European	Eurasia	6596	444892	✓		✓	eu	eu	
+spa	SPNNVI	Español	7.83	Romance	Indo-European	Eurasia	3514	228680	✓		✓	eu	eu	
+spa	SPNR95	Español	7.86	Romance	Indo-European	Eurasia	4501	296564	✓		✓	eu	eu	
+spa	SPNWTC	Español	6.74	Romance	Indo-European	Eurasia	8748	549596	✓		✓	eu	eu	
+spp	SPPTBL	Supyire	8.26	Gur	Niger-Congo	Africa	5679	396881	✓			u	u	
+spy	SPYWBT	Sabaot	8.06	Nilotic	Eastern Sudanic	Africa	4731	370912	✓			u	u	
+sri	SRIWBT	Siriano	7.26	Tucanoan	Tucanoan	South America	7318	429954	✓			u	u	
+srm	SRMWBT	Saramaccan	7.43	Creole	Creole	South America	847	40128	✓			u	u	
+srn	SRNBSS	Sranan Tongo	7.6	Creole	Creole	South America	10803	571556	✓	✓		wu	wu	
+stn	STNBSP	Owa	6.3	Oceanic	Austronesian	Papunesia	9660	932864	✓			u	u	
+sua	SUACLV	Kisukuma	6.81	Sulka	Sulka	Papunesia	7854	553304	✓			u	u	
+sun	SUNIBS	Sundanese	6.88	Malayo-Sumbawan	Austronesian	Papunesia	11020	727469	✓			u	u	
+sur	SURIBS	Mwaghavul	7.09	West Chadic	Afro-Asiatic	Africa	8162	630432	✓			u	u	
+sus	SUSPBT	Susu	8.15	Western Mande	Mande	Africa	4691	303266	✓			u	u	
+suz	SUZWBT	Sunuwar	6.64	Mahakiranti	Sino-Tibetan	Eurasia	2627	426289	✓			u	u	
+swe	SWESFB	Svenska	6.9	Germanic	Indo-European	Eurasia	8608	516757	✓		✓	eu	eu	
+swe	SWESFV	Svenska	6.12	Germanic	Indo-European	Eurasia	9519	544662	✓		✓	eu	eu	
+sxn	SXNLAI	Sangir	7.65	Sangiric	Austronesian	Papunesia	11582	911199	✓			u	u	
+taj	TAJWBT	Tamang, Eastern	6.13	Bodic	Sino-Tibetan	Eurasia	5369	931276	✓			u	u	
+taq	TAQWBT	Tamasheq	7.11	Berber	Afro-Asiatic	Africa	8665	674489	✓			u	u	
+tby	TBYLAI	Tabaru	5.66	North Halmaheran	West Papuan	Papunesia	11959	929443	✓			u	u	
+tbz	TBZBSB	Ditammari	7.68	Gur	Niger-Congo	Africa	3554	234837	✓			u	u	
+tca	TCATBL	Ticuna	6.62	Ticuna	Ticuna	South America	3891	336919	✓			u	u	
+tcc	TCCBST	Datooga	6.92	Nilotic	Eastern Sudanic	Africa	8270	782789	✓			u	u	
+tam	TCVWTC	தமிழ்	6.62	Southern Dravidian	Dravidian	Eurasia	5414	1119394	✓		✓	eu	eu	
+tel	TCWWTC	Telugu	9.05	South-Central Dravidian	Dravidian	Eurasia	4072	549472	✓		✓	eu	eu	
+tem	TEMBSL	Themne	7.17	Mel	Niger-Congo	Africa	5773	382706	✓			u	u	
+teo	TEOBSU	Ateso	7.09	Nilotic	Eastern Sudanic	Africa	8736	608209	✓			u	u	
+ter	TERTBL	Terena	6.49	Bolivia-Parana	Arawakan	South America	13247	1054268	✓			u	u	
+tfr	TFRWBT	Teribe	6.63	Talamanca	Chibchan	North America	8345	528172	✓			u	u	
+tgk	TGKIBT	Tajik	6.78	Iranian	Indo-European	Eurasia	2255	158674	✓		✓	eu	eu	
+tgl	TGLPBS	Tagalog	6.51	Greater Central Philippine	Austronesian	Papunesia	8786	693904	✓		✓	eu	eu	
+tgo	TGOTBL	Sudest	6.12	Oceanic	Austronesian	Papunesia	8417	773242	✓			u	u	
+tgp	TGPWBT	Tangoa	7.09	Oceanic	Austronesian	Papunesia	4271	408022	✓			u	u	
+tha	THATSV	ภาษาไทย	6.73	Kam-Tai	Tai-Kadai	Eurasia	5518	569658	✓		✓	eu	eu	
+thk	THKBTL	Tharaka	7.79	Benue-Congo	Niger-Congo	Africa	7336	495141	✓			u	u	
+tik	TIKWYI	Tikar	7.78	Benue-Congo	Niger-Congo	Africa	6725	480614	✓			u	u	
+tir	TIRUBS	Tigrinya	6.61	Semitic	Afro-Asiatic	Africa	3453	351638	✓		✓	eu	eu	
+tlb	TLBLAI	Tobelo	6.62	North Halmaheran	West Papuan	Papunesia	12034	942740	✓			u	u	
+tlj	TLJWBT	Lubwisi	6.55	Benue-Congo	Niger-Congo	Africa	10204	975023	✓			u	u	
+tmc	TMCBIV	Tumak	6.57	East Chadic	Afro-Asiatic	Africa	10448	623326	✓			u	u	
+tna	TNATBL	Tacana	6.61	Tacanan	Tacanan	South America	11996	708699	✓			u	u	
+tob	TOBBSA	Toba Qom	6.22	South Guaicuruan	Guaicuruan	South America	10030	982961	✓			u	u	
+toc	TOCTBL	Totonaco de Coyutla	6.63	Totonacan	Totonacan	North America	5645	895485	✓			u	u	
+toh	TOHSBM	Gitonga	6.85	Benue-Congo	Niger-Congo	Africa	10269	705758	✓			u	u	
+tos	TOSTBL	Totonaco de la Sierra	6.41	Totonacan	Totonacan	North America	8902	1394202	✓			u	u	
+tpi	TPIPNG	Tok Pisin	6.15	Creole	Creole	Papunesia	12894	934649	✓		✓	eu	eu	
+tpm	TPMWBT	Tampulma	7.09	Gur	Niger-Congo	Africa	7887	448777	✓			u	u	
+tpp	TPPTBL	Tepehua Pisaflores	5.72	Totonacan	Totonacan	North America	10836	932481	✓			u	u	
+tpt	TPTTBL	Tepehua Tlachichilco	6.93	Totonacan	Totonacan	North America	10155	697711	✓			u	u	
+tur	TRKBST	Türkçe	7.81	Turkic	Turkic	Eurasia	6020	395755	✓		✓	eu	eu	
+tur	TRKWTC	Türkçe	8.59	Turkic	Turkic	Eurasia	4187	221160	✓		✓	eu	eu	
+trs	TRSUTI	Triqui Chicahuaxtla	6	Mixtecan	Oto-Manguean	North America	4482	491233	✓			u	u	
+tso	TS1BSM	Tsonga	5.24	Benue-Congo	Niger-Congo	Africa	11271	788067	✓			u	u	
+tsz	TSZBSM	Purepecha	8	Tarascan	Tarascan	North America	3631	296872	✓			u	u	
+ttc	TTCWBT	Tektiteko	6.04	Mayan	Mayan	North America	10177	902850	✓			u	u	
+tat	TTRIBT	Tatar	7.43	Turkic	Turkic	Eurasia	2326	176317	✓			u	u	
+tuo	TU1TBL	Tukano	7.69	Tucanoan	Tucanoan	South America	9586	477423	✓			u	u	
+tue	TUEWBT	Tuyuca	7.57	Tucanoan	Tucanoan	South America	6460	335790	✓			u	u	
+tuf	TUFWYI	U'wa	6.71	Chibcha-Tunebo	Chibchan	South America	23279	1020080	✓			u	u	
+tuo	TUOWBT	Tucano	7.58	Tucanoan	Tucanoan	South America	13341	643470	✓			u	u	
+twb	TWBOMF	Tawbuid	5.98	Greater Central Philippine	Austronesian	Papunesia	10844	832719	✓			u	u	
+twu	TWULAI	Rote	6.13	Malayo-Polynesian	Austronesian	Papunesia	11980	911543	✓			u	u	
+txa	TXATBL	Tombonuo	7.19	North Borneo	Austronesian	Papunesia	10298	883444	✓			u	u	
+txu	TXUTBL	Kayapo	7.7	Ge-Kaingang	Macro-Ge	South America	17706	866692	✓			u	u	
+tyv	TYVIBT	Tuvin	6.25	Turkic	Turkic	Eurasia	696	58514	✓			u	u	
+tzh	TZBSBM	Tzeltal, Bachajon	6.05	Mayan	Mayan	North America	10859	781424	✓			u	u	
+tzo	TZCSBM	Tzotzil, Chamula	6.24	Mayan	Mayan	North America	12500	901703	✓			u	u	
+tzo	TZESBM	Tzotzil, Chenalho	7.09	Mayan	Mayan	North America	12723	771347	✓			u	u	
+tzh	TZHSBM	Tzeltal, Oxchuc	6.53	Mayan	Mayan	North America	12681	823796	✓			u	u	
+tzj	TZTWBT	Tzutujil, Western	6.75	Mayan	Mayan	North America	12766	1120486	✓			u	u	
+udm	UDMIBT	Udmurt	5.9	Permic	Uralic	Eurasia	8472	591627	✓			u	u	
+udu	UDUSIM	Uduk	6.85	Koman	Koman	Africa	10902	981365	✓			u	u	
+uig	UI1UMK	Уйғурчә	6.24	Turkic	Turkic	Eurasia	5822	543502	✓			u	u	
+ura	URATBL	Urarina	6.22	Urarina	Urarina	South America	11498	1136414	✓			u	u	
+urb	URBWBT	Ka’apor	7.25	Tupi-Guaraní	Tupian	South America	20389	671639	✓			u	u	
+urd	URDWTC	Urdu	6.62	Indic	Indo-European	Eurasia	5623	562506	✓	✓		wu	wu	
+ury	URYAOV	Orya	5.72	Orya	Tor-Orya	Papunesia	14118	1133963	✓			u	u	
+vie	VIEVOV	Tiếng Việt	6.61	Viet-Muong	Austro-Asiatic	Eurasia	5708	355186	✓		✓	eu	eu	
+vmw	VMWBSM	Makhuwa	6.83	Benue-Congo	Niger-Congo	Africa	10364	725245	✓			u	u	
+vun	VUNBST	Kivunjo	6.52	Benue-Congo	Niger-Congo	Africa	9063	660967	✓			u	u	
+wmw	WMWWYI	Mwani	6.5	Benue-Congo	Niger-Congo	Africa	11390	698463	✓			u	u	
+xal	XALIBT	Kalmyk-Oirat	6.9	Mongolic	Mongolic	Eurasia	3792	279669	✓			u	u	
+xed	XEDWYI	Hdi	7.49	Biu-Mandara	Afro-Asiatic	Africa	9181	610579	✓			u	u	
+xmm	XMMLAI	Manadonese Malay	5.2	Malayo-Sumbawan	Austronesian	Papunesia	11890	1069221	✓			u	u	
+xon	XO2IBS	Konkomba, Likpakpaaln	7.75	Gur	Niger-Congo	Africa	9182	484342	✓			u	u	
+xog	XOGBSU	Lusoga	6.88	Benue-Congo	Niger-Congo	Africa	7957	562865	✓			u	u	
+xrb	XRBWBT	Karaboro	8.06	Senufo	Niger-Congo	Africa	9911	537927	✓			u	u	
+xsb	XSBWYI	Sambali	6.04	Central Luzon	Austronesian	Papunesia	10558	973219	✓			u	u	
+xsm	XSMBFV	Kasem	7.67	Gur	Niger-Congo	Africa	9032	545905	✓			u	u	
+xsm	XSMWBT	Kasem	8.92	Gur	Niger-Congo	Africa	4403	282363	✓			u	u	
+xsr	XSRWBT	Sherpa	7.42	Bodic	Sino-Tibetan	Eurasia	1318	208903	✓			u	u	
+xsu	XSUMEV	Sanumá	6.59	Yanomam	Yanomam	South America	13719	1016770	✓			u	u	
+xtd	XTDTBL	Mixtec Diuxi-Tilantongo	6.45	Mixtecan	Oto-Manguean	North America	14975	812738	✓			u	u	
+xtm	XTMTBL	Mixtec, Magdalena Peñasco	5.61	Mixtecan	Oto-Manguean	North America	10979	897227	✓			u	u	
+xuo	XUOWBT	Kuo	6.72	Adamawa	Niger-Congo	Africa	10724	855339	✓			u	u	
+yaz	YAZTBL	Lokaa	6.6	Benue-Congo	Niger-Congo	Africa	5753	501801	✓			u	u	
+ycl	YCLNVS	Elo	7.22	Burmese-Lolo	Sino-Tibetan	Eurasia	12323	880825	✓			u	u	
+yua	YUASBM	Maya, Yucatan	7.03	Mayan	Mayan	North America	9774	751616	✓			u	u	
+yue	YUHSBV	廣東話	7.99	Chinese	Sino-Tibetan	Eurasia	2867	399337	✓			u	u	
+zlm	ZLMAVB	Malay	6.03	Malayo-Sumbawan	Austronesian	Papunesia	10308	789246	✓		✓	eu	eu	
+zyp	ZYPWBT	Zyphe	7.22	Kuki-Chin	Sino-Tibetan	Eurasia	6304	556982	✓			u	u	
