@@ -2,7 +2,10 @@
 
 [![CircleCI](https://circleci.com/gh/rycolab/surprisal-duration-tradeoff.svg?style=svg&circle-token=581c6fb829d8c4874c9a5a65c7dbc9da7ab3ac82)](https://circleci.com/gh/rycolab/surprisal-duration-tradeoff)
 
-This repository accompanies the paper "A surprisal--duration trade-off across and within the world's languages" published in EMNLP 2021.
+
+This code accompanies the paper [A surprisal--duration trade-off across and within the world's languages (Pimentel et al., EMNLP 2021)](https://arxiv.org/abs/2109.15000).
+It is a study of the trade-off between surprisal and duration resulting from a hypothetical channel capacity in human's language processing capacity.
+
 
 ## Install
 
@@ -121,6 +124,28 @@ $ make print_tradeoff DATASET=unitran
 
 
 ## Extra Information
+
+
+#### Citation
+
+If this code or the paper were usefull to you, consider citing it:
+
+```bash
+@inproceedings{pimentel-etal-2021-surprisal,
+    title = "A surprisal--duration trade-off across and within the world's languages",
+    author = "Pimentel, Tiago and
+    Meister, Clara and
+    Salesky, Elizabeth and
+    Teufel, Simone and
+    Blasi, Damián and
+    Cotterell, Ryan",
+    booktitle = "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    year = "2021",
+    publisher = "Association for Computational Linguistics",
+    url = "https://arxiv.org/abs/2109.15000",
+}
+```
+
 
 #### Contact
 
