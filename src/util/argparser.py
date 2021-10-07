@@ -11,7 +11,7 @@ parser.add_argument('--language', type=str, default=None)
 parser.add_argument('--data-file', type=str)
 
 # Model
-parser.add_argument('--model', default='lstm', choices=['lstm', 'transformer'])
+parser.add_argument('--model', default='lstm', choices=['lstm'])
 
 # Others
 parser.add_argument('--seed', type=int, default=7,

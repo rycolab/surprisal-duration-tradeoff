@@ -1,10 +1,6 @@
 LANGUAGE := AZEBSA
 DATASET := epitran
 MODEL := lstm
-PER_WORD := False
-ONLY_CONTEXT := False
-
-TRUE_STR := True true TRUE
 
 DATA_DIR_BASE := ./data
 DATA_DIR := $(DATA_DIR_BASE)/$(DATASET)
@@ -236,7 +232,7 @@ $(CHECKPOINT_FILE): | $(PROCESSED_DATA_FILE)
 # Preprocess Data
 $(PROCESSED_DATA_FILE): | $(VOX_EXTRACTED_FILE)
 	mkdir -p $(DATA_DIR)
-	python src/h01_data/process_data.py --dataset $(DATASET) --src-file $(VOX_EXTRACTED_FILE) --tgt-file $(PROCESSED_DATA_FILE) $(PER_WORD_ARG)
+	python src/h01_data/process_data.py --dataset $(DATASET) --src-file $(VOX_EXTRACTED_FILE) --tgt-file $(PROCESSED_DATA_FILE)
 
 $(VOX_EXTRACTED_FILE): $(VOX_RAW_FILE) $(VOX_LEX_FILE)
 	mkdir -p $(EXTRACTED_DIR)
