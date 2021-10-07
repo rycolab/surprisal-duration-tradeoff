@@ -104,7 +104,19 @@ For the Appendix Table:
 $ make print_controls DATASET=epitran
 ```
 
-
+Further, to get the average unitran slope for the individual language analysis run:
+```bash
+$ make plot_monoling_effects DATASET=unitran
+```
+And for the cross-linguistic analysis:
+```bash
+$ make plot_crossling_effects DATASET=unitran
+```
+This result might not match the paper exactly since the original models were deleted and we had to rerun this cross-linguistic unitran analysis.
+Finally, to get the pure cross-linguistic slopes run:
+```bash
+$ make print_tradeoff DATASET=unitran
+```
 
 
 

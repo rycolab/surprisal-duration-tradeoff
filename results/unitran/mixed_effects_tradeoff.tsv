@@ -1,0 +1,7 @@
+coef	pval
+(Intercept)	87.148845	1.09E-160
+position_initialTRUE	17.703136	8.40E-53
+position_finalTRUE	6.20682	6.42E-22
+loss	1.545626	4.13E-33
+re(random = ~1 | char, method = "REML")	NA	5.80E-22
+position_initialTRUE:loss	-2.226416	2.11E-28

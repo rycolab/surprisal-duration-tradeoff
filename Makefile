@@ -103,6 +103,9 @@ plot_monoling_full: $(MIXED_EFFECTS_MONOLING)
 	python src/h06_paper/plot_monoling_full.py --dataset $(DATASET) --data-path $(DATA_DIR_BASE) \
 		--mixed-effects-file $(MIXED_EFFECTS_MONOLING)
 
+print_tradeoff: $(MIXED_EFFECTS_TRADEOFF)
+	python src/h06_paper/print_tradeoff_slope.py --mixed-tradeoff-file $(MIXED_EFFECTS_TRADEOFF)
+
 print_controls: analysis_monoling analysis_tradeoff analysis_crossling
 	python src/h06_paper/print_control_table.py --dataset $(DATASET) --data-path $(DATA_DIR_BASE) \
 		--mixed-crossling-file $(MIXED_EFFECTS_CROSSLING) --mixed-tradeoff-file $(MIXED_EFFECTS_TRADEOFF) \

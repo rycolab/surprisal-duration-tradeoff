@@ -1,0 +1,4 @@
+coef	pval
+(Intercept)	91.5499733107895	0
+loss	0.926206747629033	0.000255986196937202
+re(random = ~1 | char, method = "REML")	NA	0

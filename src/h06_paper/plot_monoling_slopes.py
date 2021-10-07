@@ -113,22 +113,21 @@ def plot_surprisal(mdf, args):
     df = pd.merge(df, df_info, left_on='lang', right_on='bible.is / wilderness code')
     df = add_correction(df)
 
-    print('Positive significance:', (df.significant).sum(), df.shape[0], df_info.shape[0])
-    print('Negative significance:', ((df.significant) & df.slope < 0).sum(), df.shape[0])
     print('Average effect:', df.slope.mean())
-    print('Average significant effect:', df[df.significant].slope.mean())
+    print('Doculects:')
+    print('Significantly positive %d, out of %d' % ((df.significant & df.slope > 0).sum(), df.shape[0]))
+    print('Significantly negative %d, out of %d' % ((df.significant  & df.slope < 0).sum(), df.shape[0]))
     print()
 
     df_pvalue = df.groupby('ISO 639-3 code')[['significant']].agg('any')
     print('Languages:')
-    print('\tPositive significance:', (df_pvalue.significant).sum(), df_pvalue.shape[0], df_info['ISO 639-3 code'].unique().shape[0])
+    print('\tSignificantly positive %d, out of %d' % (df_pvalue.significant.sum(), df_pvalue.shape[0]))
 
     df_pvalue = df.groupby('family')[['significant']].agg('any')
     print('Family:')
-    print('\tPositive significance:', (df_pvalue.significant).sum(), df_pvalue.shape[0], df_info.family.unique().shape[0])
+    print('\tSignificantly positive %d, out of %d' % (df_pvalue.significant.sum(), df_pvalue.shape[0]))
     print()
 
-    # import ipdb; ipdb.set_trace()
     df.sort_values('slope', inplace=True, ascending=True)
     plot(df, uid_slope, args)
 
